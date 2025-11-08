@@ -792,7 +792,7 @@ else:
 
 <table>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <img src="images/image2.png" alt="Surveillance active" width="100%"/>
       <br/>
       <em>Surveillance active - Mode normal</em>
@@ -847,7 +847,7 @@ else:
 <table>
   <tr>
     <td align="center">
-      <img src="images/image3.png" alt="Alerte intrusion 1" width="500"/>
+      <img src="images/image3.png" alt="Alerte intrusion 1" width="100"/>
       <br/>
       <strong>CRITICAL</strong> - Intrusion détectée
       <br/>
@@ -896,66 +896,6 @@ const cpuChart = new Chart(ctx, {
 });
 ```
 
-### 🎨 Galerie de Détections
-
-<div align="center">
-
-#### Détections dans Différentes Conditions d'Éclairage
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="outputs/detections/detection_20251108_092520.jpg" alt="Détection matin" width="100%"/>
-      <br/>
-      <em>🌅 Matin - Lumière naturelle</em>
-      <br/>
-      <strong>Confiance: 96%</strong>
-    </td>
-    <td align="center" width="33%">
-      <img src="outputs/detections/detection_20251108_093015.jpg" alt="Détection midi" width="100%"/>
-      <br/>
-      <em>☀️ Midi - Éclairage optimal</em>
-      <br/>
-      <strong>Confiance: 94%</strong>
-    </td>
-    <td align="center" width="33%">
-      <img src="outputs/detections/detection_20251108_100234.jpg" alt="Détection après-midi" width="100%"/>
-      <br/>
-      <em>🌤️ Après-midi - Éclairage mixte</em>
-      <br/>
-      <strong>Confiance: 92%</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <br/>
-      <strong>🌟 Performance robuste : Détection fiable dans toutes les conditions d'éclairage</strong>
-    </td>
-  </tr>
-</table>
-
-#### Scénarios Multi-Personnes
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="outputs/detections/detection_20251108_101542.jpg" alt="Multi-détection 1" width="100%"/>
-      <br/>
-      <strong>👥 Détection simultanée</strong>
-      <br/>
-      <em>Tracking précis avec IDs distincts</em>
-    </td>
-    <td align="center" width="50%">
-      <img src="outputs/detections/detection_20251108_092520.jpg" alt="Multi-détection 2" width="100%"/>
-      <br/>
-      <strong>👥👥 Gestion des occlusions</strong>
-      <br/>
-      <em>Détection maintenue malgré les obstacles</em>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ### 🎯 Performances de Détection
 
