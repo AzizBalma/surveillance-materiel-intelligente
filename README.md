@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/image2.jpg" alt="Détection 1" width="350"/>
+      <img src="images/image2.png" alt="Détection 1" width="350"/>
       <br/>
       <em>Détection avec haute confiance (95%)</em>
     </td>
