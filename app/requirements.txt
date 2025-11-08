@@ -1,0 +1,13 @@
+flask
+flask-socketio
+eventlet
+numpy
+pandas
+scikit-learn
+joblib
+opencv-python-headless
+onnxruntime
+yellowbrick
+matplotlib
+plotly
+psutil

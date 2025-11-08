@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Alertes</title>
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+<style>
+body { background-color: #1f2937; color: #e5e7eb; font-family: 'Inter', sans-serif; }
+.card { background-color: #374151; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 5px rgba(0,0,0,0.5); margin-bottom: 1rem; }
+.alert-item { background-color: #b91c1c; color: #fef2f2; padding: 0.5rem; border-radius: 4px; margin-bottom: 0.5rem; }
+img.thumb { max-width: 200px; border-radius: 6px; display:block; margin-top:6px; }
+</style>
+</head>
+<body class="p-4">
+<div class="container mx-auto">
+<h1 class="text-4xl font-bold text-center mb-6">🛑 Historique des alertes</h1>
+
+{% for alert in alerts %}
+<div class="card alert-item">
+  <strong>Type :</strong> {{ alert.type }}<br>
+  <strong>Heure :</strong> {{ alert.timestamp }}<br>
+  <strong>Message :</strong> {{ alert.message }}<br>
+  {% if alert.data and alert.data.image_path %}
+    <img class="thumb" src="/api/image/{{ alert.data.image_path.split('/')[-1] }}" alt="capture">
+  {% endif %}
+</div>
+{% endfor %}
+
+<div class="text-center mt-6">
+  <a href="/" class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Retour au Dashboard</a>
+</div>
+</div>
+</body>
+</html>
+

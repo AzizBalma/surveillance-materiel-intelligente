@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+outputs/logs/*.log
+outputs/alerts/*.jsonl
+outputs/detections/*.jpg
+!outputs/**/.gitkeep
+
+# Models (optional - décommenter pour versionner)
+# *.onnx
+# models/**/*.joblib
+# models/**/*.pkl
+
+# Environment
+.env
+config/config.local.yaml
+
+# Data
+data/raw/*.csv
+!data/raw/.gitkeep
+data/processed/*.csv
+!data/processed/.gitkeep
+
+# Temporary
+*.tmp
+*.bak
+*~
+
+# Backup
+*_backup_*/

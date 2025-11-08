@@ -1,0 +1,1314 @@
+2025-10-13 08:13:57,526 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 08:13:58,232 [ERROR] Erreur chargement modèle réseau: No module named 'sklearn.ensemble._gb_losses'
+2025-10-13 08:13:58,234 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-13 08:13:58,587 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:13:58,587 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081358.jpg
+2025-10-13 08:13:58,599 [INFO] 🚀 Lancement Flask + SocketIO (eventlet mode)
+2025-10-13 08:14:08,702 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:14:08,702 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081408.jpg
+2025-10-13 08:14:18,794 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:14:18,794 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081418.jpg
+2025-10-13 08:14:28,857 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:14:28,857 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081428.jpg
+2025-10-13 08:14:38,956 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:14:38,956 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081438.jpg
+2025-10-13 08:14:49,061 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:14:49,061 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081449.jpg
+2025-10-13 08:14:59,176 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:14:59,176 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081459.jpg
+2025-10-13 08:15:09,272 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:15:09,273 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081509.jpg
+2025-10-13 08:15:19,287 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:15:19,287 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081519.jpg
+2025-10-13 08:15:29,405 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:15:29,405 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081529.jpg
+2025-10-13 08:15:39,568 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:15:39,568 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081539.jpg
+2025-10-13 08:15:50,068 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:15:50,068 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081550.jpg
+2025-10-13 08:16:00,152 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:16:00,153 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081600.jpg
+2025-10-13 08:16:10,328 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:16:10,328 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081610.jpg
+2025-10-13 08:16:20,495 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:16:20,495 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081620.jpg
+2025-10-13 08:16:30,543 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 08:16:30,544 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_081630.jpg
+2025-10-13 21:39:58,841 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 21:39:59,553 [ERROR] Erreur chargement modèle réseau: No module named 'sklearn.ensemble._gb_losses'
+2025-10-13 21:39:59,554 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-13 21:39:59,852 [INFO] 🚀 Lancement Flask + SocketIO (eventlet mode)
+2025-10-13 21:40:08,267 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 21:40:08,267 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_214008.jpg
+2025-10-13 21:40:18,412 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 21:40:18,412 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_214018.jpg
+2025-10-13 21:40:31,785 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 21:40:31,785 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_214031.jpg
+2025-10-13 21:40:41,881 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 21:40:41,881 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_214041.jpg
+2025-10-13 21:40:59,997 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 21:40:59,997 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_214059.jpg
+2025-10-13 21:41:10,084 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 21:41:10,084 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_214110.jpg
+2025-10-13 21:41:24,907 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 21:41:24,907 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_214124.jpg
+2025-10-13 21:41:35,352 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%)
+2025-10-13 21:41:35,353 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251013_214135.jpg
+2025-10-13 23:38:15,708 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 23:38:16,869 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 23:38:18,002 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 23:38:19,326 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 23:38:21,085 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 23:38:23,640 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 23:38:27,894 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 23:38:35,317 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 23:38:49,130 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-13 23:39:15,770 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 00:07:22,640 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 00:07:23,388 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 00:07:23,846 [INFO] ML worker started, predictor loaded: True
+2025-10-14 00:07:23,851 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 00:07:23,898 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.08693038767028449, 'details': {'kmeans_cluster': 0, 'iforest_score': -0.08693038767028449, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.98, 0.02]}, 'metrics_snapshot': {'cpu_util': 0.0, 'mem_util': 0.0, 'temp_cpu': 0.0, 'net_in_bytes': 0.0, 'net_out_bytes': 0.0, 'tcp_conn': 0.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 00:07:23'}
+2025-10-14 00:07:25,782 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_000725.jpg'}
+2025-10-14 00:07:25,783 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_000725.jpg
+2025-10-14 00:08:00,218 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_000800.jpg
+2025-10-14 00:08:10,279 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_000810.jpg
+2025-10-14 00:08:24,836 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_000824.jpg
+2025-10-14 00:16:16,291 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 00:16:17,005 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 00:16:17,461 [INFO] ML worker started, predictor loaded: True
+2025-10-14 00:16:17,466 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 00:16:17,507 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.08693038767028449, 'details': {'kmeans_cluster': 0, 'iforest_score': -0.08693038767028449, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.98, 0.02]}, 'metrics_snapshot': {'cpu_util': 0.0, 'mem_util': 0.0, 'temp_cpu': 0.0, 'net_in_bytes': 0.0, 'net_out_bytes': 0.0, 'tcp_conn': 0.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 00:16:17'}
+2025-10-14 00:16:18,902 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_001618.jpg'}
+2025-10-14 00:16:18,902 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_001618.jpg
+2025-10-14 00:16:29,100 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_001629.jpg
+2025-10-14 00:16:48,893 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_001648.jpg
+2025-10-14 00:16:58,943 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_001658.jpg
+2025-10-14 00:17:08,963 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_001708.jpg
+2025-10-14 00:17:20,729 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_001720.jpg
+2025-10-14 00:17:30,925 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_001730.jpg
+2025-10-14 00:17:41,095 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_001741.jpg
+2025-10-14 00:40:26,638 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 00:40:27,409 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 00:40:27,409 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 00:40:43,917 [ERROR] Exception on /video_feed [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/main.py", line 65, in video_feed
+    return Response(camera.generator_mjpeg(), mimetype='multipart/x-mixed-replace; boundary=frame')
+NameError: name 'Response' is not defined
+2025-10-14 00:41:13,731 [ERROR] Exception on /video_feed [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/app/main.py", line 65, in video_feed
+    return Response(camera.generator_mjpeg(), mimetype='multipart/x-mixed-replace; boundary=frame')
+NameError: name 'Response' is not defined
+2025-10-14 01:00:57,221 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 01:00:57,922 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 01:00:58,375 [INFO] ML worker started, predictor loaded: True
+2025-10-14 01:00:58,378 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 01:00:58,442 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.08693038767028449, 'details': {'kmeans_cluster': 0, 'iforest_score': -0.08693038767028449, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.98, 0.02]}, 'metrics_snapshot': {'cpu_util': 0.0, 'mem_util': 0.0, 'temp_cpu': 0.0, 'net_in_bytes': 0.0, 'net_out_bytes': 0.0, 'tcp_conn': 0.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 01:00:58'}
+2025-10-14 01:01:14,926 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_010114.jpg'}
+2025-10-14 01:01:14,926 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_010114.jpg
+2025-10-14 01:01:24,984 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_010124.jpg
+2025-10-14 01:01:43,823 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_010143.jpg
+2025-10-14 01:28:34,830 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 01:28:35,530 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 01:28:35,987 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_012835.jpg'}
+2025-10-14 01:28:35,988 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_012835.jpg
+2025-10-14 01:28:36,009 [INFO] ML worker started, predictor loaded: True
+2025-10-14 01:28:36,013 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 01:28:36,078 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.08693038767028449, 'details': {'kmeans_cluster': 0, 'iforest_score': -0.08693038767028449, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.98, 0.02]}, 'metrics_snapshot': {'cpu_util': 0.0, 'mem_util': 0.0, 'temp_cpu': 0.0, 'net_in_bytes': 0.0, 'net_out_bytes': 0.0, 'tcp_conn': 0.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 01:28:36'}
+2025-10-14 01:28:46,045 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_012846.jpg
+2025-10-14 01:28:56,384 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_012856.jpg
+2025-10-14 01:29:17,636 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_012917.jpg
+2025-10-14 01:29:29,172 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_012929.jpg
+2025-10-14 01:41:32,818 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 01:41:33,426 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 01:41:33,782 [INFO] ML worker started, predictor loaded: True
+2025-10-14 01:41:33,787 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 01:41:33,816 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.08693038767028449, 'details': {'kmeans_cluster': 0, 'iforest_score': -0.08693038767028449, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.98, 0.02]}, 'metrics_snapshot': {'cpu_usage': 0.0, 'memory_usage': 34.3, 'process_count': 1, 'temperature': 57.0, 'bytes_sent': 84, 'bytes_recv': 2920, 'usb_connected': 'Non'}, 'timestamp': '2025-10-14 01:41:33'}
+2025-10-14 01:41:41,292 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_014141.jpg'}
+2025-10-14 01:41:41,292 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_014141.jpg
+2025-10-14 01:42:20,970 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_014220.jpg
+2025-10-14 01:57:02,017 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 01:57:02,624 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 01:57:02,967 [INFO] ML worker started, predictor loaded: True
+2025-10-14 01:57:02,969 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 01:57:03,000 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.08693038767028449, 'details': {'kmeans_cluster': 0, 'iforest_score': -0.08693038767028449, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.98, 0.02]}, 'metrics_snapshot': {'cpu_util': 0.0, 'mem_util': 0.0, 'temp_cpu': 0.0, 'net_in_bytes': 0.0, 'net_out_bytes': 0.0, 'tcp_conn': 0.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 01:57:02'}
+2025-10-14 01:57:37,090 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_015737.jpg'}
+2025-10-14 01:57:37,090 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015737.jpg
+2025-10-14 01:57:47,541 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015747.jpg
+2025-10-14 01:58:03,624 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015803.jpg
+2025-10-14 01:58:22,105 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015822.jpg
+2025-10-14 01:58:32,254 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015832.jpg
+2025-10-14 01:58:42,301 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015842.jpg
+2025-10-14 01:58:53,690 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015853.jpg
+2025-10-14 01:59:07,050 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015907.jpg
+2025-10-14 01:59:17,658 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015917.jpg
+2025-10-14 01:59:27,995 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015927.jpg
+2025-10-14 01:59:38,159 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_015938.jpg
+2025-10-14 14:41:46,601 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 14:41:47,587 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 14:41:47,969 [INFO] ML worker started, predictor loaded: True
+2025-10-14 14:41:47,974 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 14:41:48,031 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.08693038767028449, 'details': {'kmeans_cluster': 0, 'iforest_score': -0.08693038767028449, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.98, 0.02]}, 'metrics_snapshot': {'cpu_util': 0.0, 'mem_util': 0.0, 'temp_cpu': 0.0, 'net_in_bytes': 0.0, 'net_out_bytes': 0.0, 'tcp_conn': 0.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 14:41:48'}
+2025-10-14 14:41:48,576 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_144148.jpg'}
+2025-10-14 14:41:48,577 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144148.jpg
+2025-10-14 14:41:58,587 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144158.jpg
+2025-10-14 14:42:08,763 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144208.jpg
+2025-10-14 14:42:18,887 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144218.jpg
+2025-10-14 14:42:29,069 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144229.jpg
+2025-10-14 14:42:39,274 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144239.jpg
+2025-10-14 14:42:49,323 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144249.jpg
+2025-10-14 14:42:59,348 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144259.jpg
+2025-10-14 14:43:09,461 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144309.jpg
+2025-10-14 14:43:19,505 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144319.jpg
+2025-10-14 14:43:29,514 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144329.jpg
+2025-10-14 14:43:39,633 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144339.jpg
+2025-10-14 14:43:49,704 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144349.jpg
+2025-10-14 14:43:59,888 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144359.jpg
+2025-10-14 14:44:10,011 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_144410.jpg
+2025-10-14 15:48:09,095 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 15:48:09,795 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 15:48:10,137 [ERROR] Camera thread error: 'AlertSystem' object has no attribute 'add_alert'
+2025-10-14 15:48:10,153 [INFO] ML worker started, predictor loaded: True
+2025-10-14 15:48:10,156 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 15:48:10,208 [ERROR] Impossible de pousser l'alerte ML via alert_system
+2025-10-14 15:48:20,277 [ERROR] Impossible de pousser l'alerte ML via alert_system
+2025-10-14 15:48:30,343 [ERROR] Impossible de pousser l'alerte ML via alert_system
+2025-10-14 15:48:40,401 [ERROR] Impossible de pousser l'alerte ML via alert_system
+2025-10-14 15:48:50,458 [ERROR] Impossible de pousser l'alerte ML via alert_system
+2025-10-14 15:49:00,514 [ERROR] Impossible de pousser l'alerte ML via alert_system
+2025-10-14 15:49:10,579 [ERROR] Impossible de pousser l'alerte ML via alert_system
+2025-10-14 15:49:20,639 [ERROR] Impossible de pousser l'alerte ML via alert_system
+2025-10-14 15:49:30,704 [ERROR] Impossible de pousser l'alerte ML via alert_system
+2025-10-14 15:49:40,761 [ERROR] Impossible de pousser l'alerte ML via alert_system
+2025-10-14 16:05:25,520 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 16:05:26,213 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 16:05:26,590 [INFO] ML worker started, predictor loaded: True
+2025-10-14 16:05:26,594 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 16:05:26,636 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.03161807238464054, 'details': {'kmeans_cluster': 5, 'iforest_score': -0.03161807238464054, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [1.0, 0.0]}, 'metrics_snapshot': {'cpu_util': 0.0, 'mem_util': 28.1, 'temp_cpu': 49.0, 'net_in_bytes': 1441.0, 'net_out_bytes': 84.0, 'tcp_conn': 1.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 16:05:26'}
+2025-10-14 16:05:27,594 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_160527.jpg'}
+2025-10-14 16:05:27,594 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_160527.jpg
+2025-10-14 16:05:37,695 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_160537.jpg
+2025-10-14 16:05:47,932 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_160547.jpg
+2025-10-14 16:05:59,239 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_160559.jpg
+2025-10-14 16:06:09,260 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_160609.jpg
+2025-10-14 16:06:19,422 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_160619.jpg
+2025-10-14 16:06:29,554 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_160629.jpg
+2025-10-14 16:06:39,720 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_160639.jpg
+2025-10-14 16:06:49,925 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_160649.jpg
+2025-10-14 16:06:59,966 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_160659.jpg
+2025-10-14 17:10:49,681 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 17:10:50,277 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 17:10:50,551 [INFO] ML worker started, predictor loaded: True
+2025-10-14 17:10:50,553 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 17:10:50,582 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.0310703734874761, 'details': {'kmeans_cluster': 5, 'iforest_score': -0.0310703734874761, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [1.0, 0.0]}, 'metrics_snapshot': {'cpu_util': 0.0, 'mem_util': 28.6, 'temp_cpu': 45.0, 'net_in_bytes': 1576.0, 'net_out_bytes': 84.0, 'tcp_conn': 1.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 17:10:50'}
+2025-10-14 17:10:51,428 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_171051.jpg'}
+2025-10-14 17:10:51,428 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171051.jpg
+2025-10-14 17:11:01,463 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171101.jpg
+2025-10-14 17:11:11,610 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171111.jpg
+2025-10-14 17:11:21,657 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171121.jpg
+2025-10-14 17:11:31,698 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171131.jpg
+2025-10-14 17:11:41,840 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171141.jpg
+2025-10-14 17:11:51,850 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171151.jpg
+2025-10-14 17:12:01,855 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171201.jpg
+2025-10-14 17:12:11,944 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171211.jpg
+2025-10-14 17:12:22,087 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171222.jpg
+2025-10-14 17:12:32,191 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171232.jpg
+2025-10-14 17:12:42,422 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171242.jpg
+2025-10-14 17:12:52,549 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171252.jpg
+2025-10-14 17:13:02,600 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171302.jpg
+2025-10-14 17:13:12,633 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171312.jpg
+2025-10-14 17:13:22,805 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171322.jpg
+2025-10-14 17:13:32,825 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171332.jpg
+2025-10-14 17:13:42,955 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171342.jpg
+2025-10-14 17:13:53,084 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171353.jpg
+2025-10-14 17:14:03,174 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171403.jpg
+2025-10-14 17:14:13,310 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171413.jpg
+2025-10-14 17:14:23,395 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171423.jpg
+2025-10-14 17:14:33,559 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171433.jpg
+2025-10-14 17:14:43,618 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171443.jpg
+2025-10-14 17:14:53,779 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171453.jpg
+2025-10-14 17:15:03,866 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171503.jpg
+2025-10-14 17:15:14,005 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171514.jpg
+2025-10-14 17:15:24,082 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171524.jpg
+2025-10-14 17:15:34,249 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171534.jpg
+2025-10-14 17:15:44,377 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171544.jpg
+2025-10-14 17:15:51,554 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.10016081797094334, 'details': {'kmeans_cluster': 5, 'iforest_score': -0.10016081797094334, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.875, 0.125]}, 'metrics_snapshot': {'cpu_util': 35.9, 'mem_util': 28.7, 'temp_cpu': 68.0, 'net_in_bytes': 216204.0, 'net_out_bytes': 173750829.0, 'tcp_conn': 1.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 17:15:51'}
+2025-10-14 17:15:54,520 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_171554.jpg'}
+2025-10-14 17:15:54,520 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171554.jpg
+2025-10-14 17:16:04,572 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171604.jpg
+2025-10-14 17:16:14,583 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171614.jpg
+2025-10-14 17:16:24,628 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171624.jpg
+2025-10-14 17:16:34,724 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171634.jpg
+2025-10-14 17:16:44,815 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171644.jpg
+2025-10-14 17:16:54,902 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171654.jpg
+2025-10-14 17:17:05,013 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171705.jpg
+2025-10-14 17:17:15,047 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171715.jpg
+2025-10-14 17:17:25,112 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171725.jpg
+2025-10-14 17:17:35,205 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171735.jpg
+2025-10-14 17:17:45,291 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171745.jpg
+2025-10-14 17:17:55,428 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171755.jpg
+2025-10-14 17:18:05,459 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171805.jpg
+2025-10-14 17:18:15,549 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171815.jpg
+2025-10-14 17:18:25,558 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171825.jpg
+2025-10-14 17:18:35,643 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171835.jpg
+2025-10-14 17:18:45,726 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171845.jpg
+2025-10-14 17:18:55,799 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171855.jpg
+2025-10-14 17:19:05,807 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171905.jpg
+2025-10-14 17:19:15,932 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171915.jpg
+2025-10-14 17:19:26,729 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171926.jpg
+2025-10-14 17:19:37,093 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171937.jpg
+2025-10-14 17:19:47,188 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171947.jpg
+2025-10-14 17:19:57,268 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_171957.jpg
+2025-10-14 17:20:07,293 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172007.jpg
+2025-10-14 17:20:17,397 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172017.jpg
+2025-10-14 17:20:27,500 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172027.jpg
+2025-10-14 17:20:37,568 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172037.jpg
+2025-10-14 17:20:47,640 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172047.jpg
+2025-10-14 17:20:52,709 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.09680827269107284, 'details': {'kmeans_cluster': 5, 'iforest_score': -0.09680827269107284, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.875, 0.125]}, 'metrics_snapshot': {'cpu_util': 35.6, 'mem_util': 28.6, 'temp_cpu': 68.0, 'net_in_bytes': 479140.0, 'net_out_bytes': 416330811.0, 'tcp_conn': 1.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 17:20:52'}
+2025-10-14 17:20:57,825 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_172057.jpg'}
+2025-10-14 17:20:57,826 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172057.jpg
+2025-10-14 17:21:07,945 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172107.jpg
+2025-10-14 17:21:18,196 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172118.jpg
+2025-10-14 17:21:28,643 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172128.jpg
+2025-10-14 17:21:38,714 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172138.jpg
+2025-10-14 17:21:48,789 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172148.jpg
+2025-10-14 17:21:59,547 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172159.jpg
+2025-10-14 17:22:09,670 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172209.jpg
+2025-10-14 17:22:20,572 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172220.jpg
+2025-10-14 17:22:30,629 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172230.jpg
+2025-10-14 17:22:40,774 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172240.jpg
+2025-10-14 17:22:51,203 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172251.jpg
+2025-10-14 17:23:01,471 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172301.jpg
+2025-10-14 17:23:11,600 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172311.jpg
+2025-10-14 17:23:21,735 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172321.jpg
+2025-10-14 17:23:32,147 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172332.jpg
+2025-10-14 17:23:42,944 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172342.jpg
+2025-10-14 17:23:53,233 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172353.jpg
+2025-10-14 17:24:03,238 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172403.jpg
+2025-10-14 17:24:13,483 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172413.jpg
+2025-10-14 17:24:23,521 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172423.jpg
+2025-10-14 17:24:33,624 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172433.jpg
+2025-10-14 17:24:44,419 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172444.jpg
+2025-10-14 17:24:54,478 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172454.jpg
+2025-10-14 17:25:04,606 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172504.jpg
+2025-10-14 17:25:14,835 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172514.jpg
+2025-10-14 17:25:25,252 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172525.jpg
+2025-10-14 17:25:35,408 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172535.jpg
+2025-10-14 17:25:45,683 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172545.jpg
+2025-10-14 17:25:53,964 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.09955891727377841, 'details': {'kmeans_cluster': 5, 'iforest_score': -0.09955891727377841, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.875, 0.125]}, 'metrics_snapshot': {'cpu_util': 35.4, 'mem_util': 28.7, 'temp_cpu': 70.0, 'net_in_bytes': 724306.0, 'net_out_bytes': 682592263.0, 'tcp_conn': 1.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 17:25:53'}
+2025-10-14 17:25:55,791 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172555.jpg
+2025-10-14 17:26:06,323 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_172606.jpg'}
+2025-10-14 17:26:06,323 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172606.jpg
+2025-10-14 17:26:16,361 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172616.jpg
+2025-10-14 17:26:26,974 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172626.jpg
+2025-10-14 17:26:37,076 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172637.jpg
+2025-10-14 17:26:47,238 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172647.jpg
+2025-10-14 17:26:58,372 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172658.jpg
+2025-10-14 17:27:08,433 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172708.jpg
+2025-10-14 17:27:18,674 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172718.jpg
+2025-10-14 17:27:29,075 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172729.jpg
+2025-10-14 17:27:39,316 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172739.jpg
+2025-10-14 17:27:49,412 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172749.jpg
+2025-10-14 17:28:00,234 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172800.jpg
+2025-10-14 17:28:10,863 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172810.jpg
+2025-10-14 17:28:21,091 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172821.jpg
+2025-10-14 17:28:31,352 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172831.jpg
+2025-10-14 17:28:41,950 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172841.jpg
+2025-10-14 17:28:52,279 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172852.jpg
+2025-10-14 17:29:03,093 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172903.jpg
+2025-10-14 17:29:13,376 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172913.jpg
+2025-10-14 17:29:23,685 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172923.jpg
+2025-10-14 17:29:34,806 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172934.jpg
+2025-10-14 17:29:45,318 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172945.jpg
+2025-10-14 17:29:55,969 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_172955.jpg
+2025-10-14 17:30:05,987 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173005.jpg
+2025-10-14 17:30:19,384 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173019.jpg
+2025-10-14 17:30:29,467 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173029.jpg
+2025-10-14 17:30:39,509 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173039.jpg
+2025-10-14 17:30:49,676 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173049.jpg
+2025-10-14 17:30:55,125 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.1124889314633204, 'details': {'kmeans_cluster': 5, 'iforest_score': -0.1124889314633204, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.88, 0.12]}, 'metrics_snapshot': {'cpu_util': 35.7, 'mem_util': 28.4, 'temp_cpu': 69.0, 'net_in_bytes': 971361.0, 'net_out_bytes': 949744758.0, 'tcp_conn': 1.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 17:30:55'}
+2025-10-14 17:31:00,337 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173100.jpg
+2025-10-14 17:31:10,375 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_173110.jpg'}
+2025-10-14 17:31:10,376 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173110.jpg
+2025-10-14 17:31:20,876 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173120.jpg
+2025-10-14 17:31:30,955 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173130.jpg
+2025-10-14 17:31:40,995 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173140.jpg
+2025-10-14 17:31:51,226 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173151.jpg
+2025-10-14 17:32:01,368 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173201.jpg
+2025-10-14 17:32:11,376 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173211.jpg
+2025-10-14 17:32:21,378 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173221.jpg
+2025-10-14 17:32:31,608 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173231.jpg
+2025-10-14 17:32:41,770 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173241.jpg
+2025-10-14 17:32:53,664 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173253.jpg
+2025-10-14 17:33:03,754 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173303.jpg
+2025-10-14 17:33:13,819 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173313.jpg
+2025-10-14 17:33:27,087 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173327.jpg
+2025-10-14 17:33:38,958 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173338.jpg
+2025-10-14 17:33:49,080 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173349.jpg
+2025-10-14 17:33:59,936 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173359.jpg
+2025-10-14 17:34:10,061 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173410.jpg
+2025-10-14 17:34:20,098 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173420.jpg
+2025-10-14 17:34:30,152 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173430.jpg
+2025-10-14 17:34:40,952 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173440.jpg
+2025-10-14 17:34:51,083 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173451.jpg
+2025-10-14 17:35:01,227 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173501.jpg
+2025-10-14 17:35:11,318 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173511.jpg
+2025-10-14 17:35:21,447 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173521.jpg
+2025-10-14 17:35:31,487 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173531.jpg
+2025-10-14 17:35:41,572 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173541.jpg
+2025-10-14 17:35:51,589 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173551.jpg
+2025-10-14 17:35:56,188 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.11483022458936298, 'details': {'kmeans_cluster': 5, 'iforest_score': -0.11483022458936298, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.725, 0.275]}, 'metrics_snapshot': {'cpu_util': 35.3, 'mem_util': 28.6, 'temp_cpu': 70.0, 'net_in_bytes': 1217592.0, 'net_out_bytes': 1223065724.0, 'tcp_conn': 1.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 17:35:56'}
+2025-10-14 17:36:01,651 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173601.jpg
+2025-10-14 17:36:11,692 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_173611.jpg'}
+2025-10-14 17:36:11,692 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173611.jpg
+2025-10-14 17:36:21,734 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173621.jpg
+2025-10-14 17:36:31,877 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173631.jpg
+2025-10-14 17:36:41,901 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173641.jpg
+2025-10-14 17:36:52,072 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173652.jpg
+2025-10-14 17:37:02,241 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173702.jpg
+2025-10-14 17:37:12,412 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173712.jpg
+2025-10-14 17:37:22,551 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173722.jpg
+2025-10-14 17:37:32,703 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173732.jpg
+2025-10-14 17:37:42,850 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173742.jpg
+2025-10-14 17:37:52,964 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173752.jpg
+2025-10-14 17:38:03,112 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173803.jpg
+2025-10-14 17:38:13,245 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173813.jpg
+2025-10-14 17:38:23,309 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173823.jpg
+2025-10-14 17:38:33,342 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173833.jpg
+2025-10-14 17:38:43,389 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173843.jpg
+2025-10-14 17:38:53,476 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173853.jpg
+2025-10-14 17:39:03,477 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173903.jpg
+2025-10-14 17:39:13,533 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173913.jpg
+2025-10-14 17:39:23,691 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173923.jpg
+2025-10-14 17:39:33,747 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173933.jpg
+2025-10-14 17:39:43,837 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173943.jpg
+2025-10-14 17:39:53,955 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_173953.jpg
+2025-10-14 17:40:03,991 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174003.jpg
+2025-10-14 17:40:14,005 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174014.jpg
+2025-10-14 17:40:24,206 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174024.jpg
+2025-10-14 17:40:34,285 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174034.jpg
+2025-10-14 17:40:44,343 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174044.jpg
+2025-10-14 17:40:54,371 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174054.jpg
+2025-10-14 17:40:57,602 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.11737494249372993, 'details': {'kmeans_cluster': 5, 'iforest_score': -0.11737494249372993, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [0.715, 0.285]}, 'metrics_snapshot': {'cpu_util': 33.8, 'mem_util': 28.5, 'temp_cpu': 71.0, 'net_in_bytes': 1460571.0, 'net_out_bytes': 1493851870.0, 'tcp_conn': 1.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 17:40:57'}
+2025-10-14 17:41:04,387 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174104.jpg
+2025-10-14 17:41:14,660 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_174114.jpg'}
+2025-10-14 17:41:14,660 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174114.jpg
+2025-10-14 17:41:24,738 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174124.jpg
+2025-10-14 17:41:34,830 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174134.jpg
+2025-10-14 17:41:44,884 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174144.jpg
+2025-10-14 17:41:54,967 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174154.jpg
+2025-10-14 17:42:05,072 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174205.jpg
+2025-10-14 17:42:15,189 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174215.jpg
+2025-10-14 17:42:25,297 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174225.jpg
+2025-10-14 17:42:35,302 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174235.jpg
+2025-10-14 17:42:45,309 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174245.jpg
+2025-10-14 17:42:55,408 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174255.jpg
+2025-10-14 17:43:05,584 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174305.jpg
+2025-10-14 17:43:15,609 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174315.jpg
+2025-10-14 17:43:25,640 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174325.jpg
+2025-10-14 17:43:35,688 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174335.jpg
+2025-10-14 17:43:45,837 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174345.jpg
+2025-10-14 17:43:55,887 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_174355.jpg
+2025-10-14 18:57:45,175 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 18:57:45,786 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 18:57:46,053 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_185746.jpg'}
+2025-10-14 18:57:46,053 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185746.jpg
+2025-10-14 18:57:46,065 [INFO] ML worker started, predictor loaded: True
+2025-10-14 18:57:46,067 [INFO] Starting Flask + SocketIO (eventlet mode)
+2025-10-14 18:57:46,095 [WARNING] 🚨 ALERTE [ml_anomaly] Anomalie détectée par modèle ML | {'ml_score': -0.040875584805958654, 'details': {'kmeans_cluster': 5, 'iforest_score': -0.040875584805958654, 'iforest_anomaly': True, 'classifier_pred': 0, 'classifier_proba': [1.0, 0.0]}, 'metrics_snapshot': {'cpu_util': 0.0, 'mem_util': 33.3, 'temp_cpu': 48.0, 'net_in_bytes': 2214.0, 'net_out_bytes': 84.0, 'tcp_conn': 1.0, 'user_active': 0.0, 'usb_event': 0.0}, 'timestamp': '2025-10-14 18:57:46'}
+2025-10-14 18:57:56,125 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185756.jpg
+2025-10-14 18:58:06,500 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185806.jpg
+2025-10-14 18:58:16,519 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185816.jpg
+2025-10-14 18:58:26,597 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185826.jpg
+2025-10-14 18:58:36,764 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185836.jpg
+2025-10-14 18:58:46,789 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185846.jpg
+2025-10-14 18:58:56,796 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185856.jpg
+2025-10-14 18:59:06,919 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185906.jpg
+2025-10-14 18:59:17,086 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185917.jpg
+2025-10-14 18:59:27,137 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185927.jpg
+2025-10-14 18:59:37,258 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185937.jpg
+2025-10-14 18:59:47,328 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185947.jpg
+2025-10-14 18:59:57,361 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_185957.jpg
+2025-10-14 19:44:39,787 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 19:44:40,397 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 19:44:40,668 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_194440.jpg'}
+2025-10-14 19:44:40,669 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194440.jpg
+2025-10-14 19:44:40,680 [INFO] ML worker started with simple anomaly detection
+2025-10-14 19:44:40,682 [INFO] 🚀 Starting Surveillance System with Simple Anomaly Detection
+2025-10-14 19:44:40,713 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] [HIGH] Anomalie détectée par intelligence artificielle - Modèle ML: score -0.05451829052958446 | {'type': 'ml_anomaly', 'severity': 'HIGH', 'message': 'Anomalie détectée par intelligence artificielle', 'cause': 'Modèle ML: score -0.05451829052958446'}
+2025-10-14 19:44:50,672 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194450.jpg
+2025-10-14 19:45:00,690 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194500.jpg
+2025-10-14 19:45:10,694 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194510.jpg
+2025-10-14 19:45:20,752 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194520.jpg
+2025-10-14 19:45:30,793 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194530.jpg
+2025-10-14 19:45:42,754 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194542.jpg
+2025-10-14 19:45:52,866 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194552.jpg
+2025-10-14 19:46:02,908 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194602.jpg
+2025-10-14 19:46:12,938 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194612.jpg
+2025-10-14 19:46:34,938 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194634.jpg
+2025-10-14 19:46:44,947 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194644.jpg
+2025-10-14 19:46:56,011 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194656.jpg
+2025-10-14 19:47:06,075 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194706.jpg
+2025-10-14 19:47:16,854 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194716.jpg
+2025-10-14 19:47:27,804 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194727.jpg
+2025-10-14 19:47:48,393 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194748.jpg
+2025-10-14 19:47:58,474 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194758.jpg
+2025-10-14 19:48:08,611 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194808.jpg
+2025-10-14 19:48:18,622 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194818.jpg
+2025-10-14 19:48:28,698 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194828.jpg
+2025-10-14 19:48:38,825 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194838.jpg
+2025-10-14 19:48:48,942 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194848.jpg
+2025-10-14 19:48:59,056 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194859.jpg
+2025-10-14 19:49:09,150 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194909.jpg
+2025-10-14 19:49:19,171 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194919.jpg
+2025-10-14 19:49:29,176 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194929.jpg
+2025-10-14 19:49:39,229 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194939.jpg
+2025-10-14 19:49:41,866 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] [HIGH] Anomalie détectée par intelligence artificielle - Modèle ML: score -0.11189094198902994 | {'type': 'ml_anomaly', 'severity': 'HIGH', 'message': 'Anomalie détectée par intelligence artificielle', 'cause': 'Modèle ML: score -0.11189094198902994'}
+2025-10-14 19:49:49,264 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_194949.jpg'}
+2025-10-14 19:49:49,265 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194949.jpg
+2025-10-14 19:49:59,421 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_194959.jpg
+2025-10-14 19:50:09,510 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195009.jpg
+2025-10-14 19:50:19,621 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195019.jpg
+2025-10-14 19:50:29,780 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195029.jpg
+2025-10-14 19:50:39,928 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195039.jpg
+2025-10-14 19:50:49,988 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195049.jpg
+2025-10-14 19:51:00,046 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195100.jpg
+2025-10-14 19:51:10,180 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195110.jpg
+2025-10-14 19:51:20,210 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195120.jpg
+2025-10-14 19:51:30,357 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195130.jpg
+2025-10-14 19:51:40,494 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195140.jpg
+2025-10-14 19:51:50,576 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195150.jpg
+2025-10-14 19:52:00,602 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195200.jpg
+2025-10-14 19:52:10,714 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195210.jpg
+2025-10-14 19:52:20,829 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195220.jpg
+2025-10-14 19:52:30,900 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195230.jpg
+2025-10-14 19:52:40,926 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195240.jpg
+2025-10-14 19:52:50,959 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195250.jpg
+2025-10-14 19:53:01,109 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195301.jpg
+2025-10-14 19:53:11,170 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195311.jpg
+2025-10-14 19:53:21,238 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195321.jpg
+2025-10-14 19:53:31,363 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195331.jpg
+2025-10-14 19:53:41,370 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195341.jpg
+2025-10-14 19:53:51,517 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195351.jpg
+2025-10-14 19:54:01,561 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195401.jpg
+2025-10-14 19:54:11,622 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195411.jpg
+2025-10-14 19:54:21,701 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195421.jpg
+2025-10-14 19:54:31,718 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195431.jpg
+2025-10-14 19:54:42,930 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195442.jpg
+2025-10-14 19:54:43,397 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] [HIGH] Anomalie détectée par intelligence artificielle - Modèle ML: score -0.10617954816472808 | {'type': 'ml_anomaly', 'severity': 'HIGH', 'message': 'Anomalie détectée par intelligence artificielle', 'cause': 'Modèle ML: score -0.10617954816472808'}
+2025-10-14 19:54:53,067 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_195453.jpg'}
+2025-10-14 19:54:53,068 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195453.jpg
+2025-10-14 19:55:03,109 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195503.jpg
+2025-10-14 19:55:13,217 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195513.jpg
+2025-10-14 19:55:23,376 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195523.jpg
+2025-10-14 19:55:33,433 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195533.jpg
+2025-10-14 19:55:43,492 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195543.jpg
+2025-10-14 19:55:53,540 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195553.jpg
+2025-10-14 19:56:03,649 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195603.jpg
+2025-10-14 19:56:13,689 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195613.jpg
+2025-10-14 19:56:23,784 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_195623.jpg
+2025-10-14 20:04:14,159 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 20:04:14,749 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 20:04:15,046 [INFO] ML worker started with clear anomaly detection
+2025-10-14 20:04:15,049 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 20:04:15,080 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.045 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 20:04:15'}
+2025-10-14 20:04:15,545 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_200415.jpg'}
+2025-10-14 20:04:15,546 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200415.jpg
+2025-10-14 20:04:25,139 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 20:04:25'}
+2025-10-14 20:04:26,789 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200426.jpg
+2025-10-14 20:04:36,929 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200436.jpg
+2025-10-14 20:04:47,032 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200447.jpg
+2025-10-14 20:04:57,105 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200457.jpg
+2025-10-14 20:05:07,240 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200507.jpg
+2025-10-14 20:05:17,335 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200517.jpg
+2025-10-14 20:05:27,436 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200527.jpg
+2025-10-14 20:05:37,571 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200537.jpg
+2025-10-14 20:05:47,650 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200547.jpg
+2025-10-14 20:05:57,817 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200557.jpg
+2025-10-14 20:06:07,908 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200607.jpg
+2025-10-14 20:06:17,949 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200617.jpg
+2025-10-14 20:06:28,036 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200628.jpg
+2025-10-14 20:06:38,207 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200638.jpg
+2025-10-14 20:06:48,318 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200648.jpg
+2025-10-14 20:06:58,402 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200658.jpg
+2025-10-14 20:07:08,557 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200708.jpg
+2025-10-14 20:07:18,653 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200718.jpg
+2025-10-14 20:07:28,758 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200728.jpg
+2025-10-14 20:07:38,908 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200738.jpg
+2025-10-14 20:07:49,031 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200749.jpg
+2025-10-14 20:07:59,112 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200759.jpg
+2025-10-14 20:08:09,244 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200809.jpg
+2025-10-14 20:08:19,305 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200819.jpg
+2025-10-14 20:08:29,425 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200829.jpg
+2025-10-14 20:08:39,495 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200839.jpg
+2025-10-14 20:08:49,525 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200849.jpg
+2025-10-14 20:08:59,626 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200859.jpg
+2025-10-14 20:09:09,694 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200909.jpg
+2025-10-14 20:09:16,462 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.100 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 20:09:16'}
+2025-10-14 20:09:19,728 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_200919.jpg'}
+2025-10-14 20:09:19,728 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200919.jpg
+2025-10-14 20:09:29,867 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200929.jpg
+2025-10-14 20:09:39,875 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200939.jpg
+2025-10-14 20:09:49,965 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_200949.jpg
+2025-10-14 20:10:00,105 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201000.jpg
+2025-10-14 20:10:10,112 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201010.jpg
+2025-10-14 20:10:20,201 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201020.jpg
+2025-10-14 20:10:30,254 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201030.jpg
+2025-10-14 20:10:40,393 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201040.jpg
+2025-10-14 20:10:50,436 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201050.jpg
+2025-10-14 20:11:00,538 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201100.jpg
+2025-10-14 20:11:10,581 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201110.jpg
+2025-10-14 20:11:20,664 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201120.jpg
+2025-10-14 20:11:30,710 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201130.jpg
+2025-10-14 20:11:40,767 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201140.jpg
+2025-10-14 20:11:50,825 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201150.jpg
+2025-10-14 20:12:00,828 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201200.jpg
+2025-10-14 20:12:10,954 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201210.jpg
+2025-10-14 20:12:21,087 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201221.jpg
+2025-10-14 20:12:31,140 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201231.jpg
+2025-10-14 20:12:41,299 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201241.jpg
+2025-10-14 20:12:51,371 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201251.jpg
+2025-10-14 20:13:01,524 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201301.jpg
+2025-10-14 20:13:11,545 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201311.jpg
+2025-10-14 20:13:21,550 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201321.jpg
+2025-10-14 20:13:31,718 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201331.jpg
+2025-10-14 20:13:41,789 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201341.jpg
+2025-10-14 20:13:51,945 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201351.jpg
+2025-10-14 20:14:02,105 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201402.jpg
+2025-10-14 20:14:12,164 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201412.jpg
+2025-10-14 20:14:17,840 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.098 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 20:14:17'}
+2025-10-14 20:14:22,268 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_201422.jpg'}
+2025-10-14 20:14:22,269 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201422.jpg
+2025-10-14 20:14:32,288 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201432.jpg
+2025-10-14 20:14:42,301 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201442.jpg
+2025-10-14 20:14:52,320 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201452.jpg
+2025-10-14 20:15:02,456 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201502.jpg
+2025-10-14 20:15:12,499 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201512.jpg
+2025-10-14 20:15:22,655 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201522.jpg
+2025-10-14 20:15:32,695 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201532.jpg
+2025-10-14 20:15:43,480 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201543.jpg
+2025-10-14 20:15:53,584 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201553.jpg
+2025-10-14 20:16:03,680 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201603.jpg
+2025-10-14 20:16:13,889 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201613.jpg
+2025-10-14 20:16:24,020 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201624.jpg
+2025-10-14 20:16:34,218 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201634.jpg
+2025-10-14 20:16:44,245 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201644.jpg
+2025-10-14 20:16:48,842 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 20:16:48'}
+2025-10-14 20:16:54,393 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201654.jpg
+2025-10-14 20:17:04,412 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201704.jpg
+2025-10-14 20:17:14,602 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201714.jpg
+2025-10-14 20:17:24,798 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201724.jpg
+2025-10-14 20:17:35,328 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201735.jpg
+2025-10-14 20:17:45,453 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_201745.jpg
+2025-10-14 20:49:39,915 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 20:49:41,599 [INFO] 🚀 ML worker started - optimized version
+2025-10-14 20:49:41,605 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 20:49:41,962 [INFO] 🚀 Starting OPTIMIZED Surveillance System
+2025-10-14 20:49:41,999 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL - Score IA: -0.071 | {'severity': 'HIGH', 'details': "L'IA a détecté un comportement système inhabituel", 'timestamp': '20:49:41'}
+2025-10-14 20:49:45,669 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_204945.jpg'}
+2025-10-14 20:49:45,669 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_204945.jpg
+2025-10-14 20:49:55,718 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_204955.jpg
+2025-10-14 20:50:08,202 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205008.jpg
+2025-10-14 20:50:18,247 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205018.jpg
+2025-10-14 20:50:28,299 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205028.jpg
+2025-10-14 20:50:38,457 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205038.jpg
+2025-10-14 20:50:48,536 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205048.jpg
+2025-10-14 20:50:58,578 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205058.jpg
+2025-10-14 20:51:08,699 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205108.jpg
+2025-10-14 20:51:18,812 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205118.jpg
+2025-10-14 20:51:28,979 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205128.jpg
+2025-10-14 20:51:39,029 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205139.jpg
+2025-10-14 20:51:49,120 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205149.jpg
+2025-10-14 20:51:59,192 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205159.jpg
+2025-10-14 20:52:09,267 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205209.jpg
+2025-10-14 20:52:19,303 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205219.jpg
+2025-10-14 20:52:29,363 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205229.jpg
+2025-10-14 20:52:39,452 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205239.jpg
+2025-10-14 20:52:49,513 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205249.jpg
+2025-10-14 20:52:59,622 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205259.jpg
+2025-10-14 20:53:09,681 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205309.jpg
+2025-10-14 20:53:19,753 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205319.jpg
+2025-10-14 20:53:29,950 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205329.jpg
+2025-10-14 20:53:40,233 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205340.jpg
+2025-10-14 20:53:50,364 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205350.jpg
+2025-10-14 20:54:00,365 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205400.jpg
+2025-10-14 20:54:10,375 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205410.jpg
+2025-10-14 20:54:20,746 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205420.jpg
+2025-10-14 20:54:31,228 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205431.jpg
+2025-10-14 20:54:41,306 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205441.jpg
+2025-10-14 20:54:51,330 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_205451.jpg'}
+2025-10-14 20:54:51,330 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205451.jpg
+2025-10-14 20:55:01,408 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205501.jpg
+2025-10-14 20:55:03,234 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL - Score IA: -0.098 | {'severity': 'HIGH', 'details': "L'IA a détecté un comportement système inhabituel", 'timestamp': '20:55:03'}
+2025-10-14 20:55:11,488 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205511.jpg
+2025-10-14 20:55:21,612 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205521.jpg
+2025-10-14 20:55:31,621 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205531.jpg
+2025-10-14 20:55:41,791 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205541.jpg
+2025-10-14 20:55:51,918 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205551.jpg
+2025-10-14 20:56:02,078 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205602.jpg
+2025-10-14 20:56:12,259 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205612.jpg
+2025-10-14 20:56:22,453 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205622.jpg
+2025-10-14 20:56:32,645 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205632.jpg
+2025-10-14 20:56:42,699 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205642.jpg
+2025-10-14 20:56:52,894 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205652.jpg
+2025-10-14 20:57:02,917 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205702.jpg
+2025-10-14 20:57:13,107 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205713.jpg
+2025-10-14 20:57:23,986 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205723.jpg
+2025-10-14 20:57:34,091 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205734.jpg
+2025-10-14 20:57:44,156 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205744.jpg
+2025-10-14 20:57:54,289 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205754.jpg
+2025-10-14 20:58:05,795 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205805.jpg
+2025-10-14 20:58:15,918 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205815.jpg
+2025-10-14 20:58:26,023 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205826.jpg
+2025-10-14 20:58:36,293 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_205836.jpg
+2025-10-14 21:11:52,839 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 21:11:53,567 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 21:11:53,885 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_211153.jpg'}
+2025-10-14 21:11:53,885 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211153.jpg
+2025-10-14 21:11:53,900 [INFO] ML worker started with clear anomaly detection
+2025-10-14 21:11:53,903 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 21:11:53,952 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.075 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 21:11:53'}
+2025-10-14 21:11:53,952 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 21:11:53'}
+2025-10-14 21:12:03,981 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211203.jpg
+2025-10-14 21:12:14,121 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211214.jpg
+2025-10-14 21:12:24,136 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211224.jpg
+2025-10-14 21:12:34,261 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211234.jpg
+2025-10-14 21:12:44,306 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211244.jpg
+2025-10-14 21:12:54,318 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211254.jpg
+2025-10-14 21:13:04,428 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211304.jpg
+2025-10-14 21:13:14,429 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211314.jpg
+2025-10-14 21:13:24,439 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211324.jpg
+2025-10-14 21:13:34,466 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211334.jpg
+2025-10-14 21:13:44,586 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211344.jpg
+2025-10-14 21:13:54,660 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211354.jpg
+2025-10-14 21:14:04,765 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211404.jpg
+2025-10-14 21:14:14,779 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211414.jpg
+2025-10-14 21:14:24,788 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211424.jpg
+2025-10-14 21:14:34,957 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211434.jpg
+2025-10-14 21:14:45,000 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211444.jpg
+2025-10-14 21:14:55,047 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211455.jpg
+2025-10-14 21:15:05,173 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211505.jpg
+2025-10-14 21:15:15,310 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211515.jpg
+2025-10-14 21:15:25,405 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211525.jpg
+2025-10-14 21:15:35,499 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211535.jpg
+2025-10-14 21:15:45,626 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211545.jpg
+2025-10-14 21:15:55,762 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211555.jpg
+2025-10-14 21:16:05,940 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211605.jpg
+2025-10-14 21:16:16,103 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211616.jpg
+2025-10-14 21:16:26,235 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211626.jpg
+2025-10-14 21:16:36,360 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211636.jpg
+2025-10-14 21:16:46,480 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211646.jpg
+2025-10-14 21:16:55,347 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.117 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 21:16:55'}
+2025-10-14 21:16:55,348 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 21:16:55'}
+2025-10-14 21:16:56,551 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_211656.jpg'}
+2025-10-14 21:16:56,551 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211656.jpg
+2025-10-14 21:17:06,655 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211706.jpg
+2025-10-14 21:17:16,695 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211716.jpg
+2025-10-14 21:17:26,699 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211726.jpg
+2025-10-14 21:17:36,705 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211736.jpg
+2025-10-14 21:17:46,798 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211746.jpg
+2025-10-14 21:17:57,001 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211757.jpg
+2025-10-14 21:18:07,141 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211807.jpg
+2025-10-14 21:18:17,155 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211817.jpg
+2025-10-14 21:18:27,205 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211827.jpg
+2025-10-14 21:18:37,318 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211837.jpg
+2025-10-14 21:18:47,473 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211847.jpg
+2025-10-14 21:18:57,539 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211857.jpg
+2025-10-14 21:19:07,569 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211907.jpg
+2025-10-14 21:19:17,700 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211917.jpg
+2025-10-14 21:19:27,797 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211927.jpg
+2025-10-14 21:19:37,820 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211937.jpg
+2025-10-14 21:19:47,873 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211947.jpg
+2025-10-14 21:19:57,961 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_211957.jpg
+2025-10-14 21:20:08,068 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212008.jpg
+2025-10-14 21:20:18,096 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212018.jpg
+2025-10-14 21:20:28,138 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212028.jpg
+2025-10-14 21:28:32,382 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 21:28:32,996 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 21:28:33,278 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_212833.jpg'}
+2025-10-14 21:28:33,279 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212833.jpg
+2025-10-14 21:28:33,290 [INFO] ML worker started with clear anomaly detection
+2025-10-14 21:28:33,292 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 21:28:33,328 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.068 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 21:28:33'}
+2025-10-14 21:28:33,328 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 21:28:33'}
+2025-10-14 21:28:43,434 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212843.jpg
+2025-10-14 21:28:53,569 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212853.jpg
+2025-10-14 21:29:03,732 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212903.jpg
+2025-10-14 21:29:13,763 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212913.jpg
+2025-10-14 21:29:23,854 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212923.jpg
+2025-10-14 21:29:33,868 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212933.jpg
+2025-10-14 21:29:43,922 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212943.jpg
+2025-10-14 21:29:53,991 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_212953.jpg
+2025-10-14 21:30:04,014 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213004.jpg
+2025-10-14 21:30:14,095 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213014.jpg
+2025-10-14 21:30:24,187 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213024.jpg
+2025-10-14 21:30:34,236 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213034.jpg
+2025-10-14 21:30:44,329 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213044.jpg
+2025-10-14 21:30:54,417 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213054.jpg
+2025-10-14 21:31:04,558 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213104.jpg
+2025-10-14 21:31:14,646 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213114.jpg
+2025-10-14 21:31:24,786 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213124.jpg
+2025-10-14 21:31:34,939 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213134.jpg
+2025-10-14 21:31:45,063 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213145.jpg
+2025-10-14 21:31:55,075 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213155.jpg
+2025-10-14 21:32:05,118 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213205.jpg
+2025-10-14 21:32:15,181 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213215.jpg
+2025-10-14 21:32:25,288 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213225.jpg
+2025-10-14 21:32:35,350 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213235.jpg
+2025-10-14 21:32:45,431 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213245.jpg
+2025-10-14 21:32:55,478 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213255.jpg
+2025-10-14 21:33:05,644 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213305.jpg
+2025-10-14 21:33:15,747 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213315.jpg
+2025-10-14 21:33:25,802 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213325.jpg
+2025-10-14 21:33:34,774 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.112 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 21:33:34'}
+2025-10-14 21:33:34,775 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 21:33:34'}
+2025-10-14 21:33:35,873 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_213335.jpg'}
+2025-10-14 21:33:35,873 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213335.jpg
+2025-10-14 21:33:46,004 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213346.jpg
+2025-10-14 21:33:56,153 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213356.jpg
+2025-10-14 21:34:06,173 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213406.jpg
+2025-10-14 21:34:16,329 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213416.jpg
+2025-10-14 21:34:26,338 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213426.jpg
+2025-10-14 21:37:15,659 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 21:37:16,265 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 21:37:16,549 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_213716.jpg'}
+2025-10-14 21:37:16,549 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213716.jpg
+2025-10-14 21:37:16,562 [INFO] ML worker started with clear anomaly detection
+2025-10-14 21:37:16,564 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 21:37:16,594 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.080 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 21:37:16'}
+2025-10-14 21:37:16,594 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 21:37:16'}
+2025-10-14 21:37:26,616 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213726.jpg
+2025-10-14 21:37:36,783 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213736.jpg
+2025-10-14 21:37:46,834 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213746.jpg
+2025-10-14 21:37:56,880 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213756.jpg
+2025-10-14 21:38:06,965 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213806.jpg
+2025-10-14 21:38:17,020 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213817.jpg
+2025-10-14 21:38:27,181 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213827.jpg
+2025-10-14 21:38:37,187 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213837.jpg
+2025-10-14 21:39:17,500 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 21:39:18,099 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 21:39:18,363 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_213918.jpg'}
+2025-10-14 21:39:18,363 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213918.jpg
+2025-10-14 21:39:18,376 [INFO] ML worker started with clear anomaly detection
+2025-10-14 21:39:18,378 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 21:39:18,407 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.101 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 21:39:18'}
+2025-10-14 21:39:18,408 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 21:39:18'}
+2025-10-14 21:39:28,383 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213928.jpg
+2025-10-14 21:39:38,474 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213938.jpg
+2025-10-14 21:39:48,590 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213948.jpg
+2025-10-14 21:39:58,703 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_213958.jpg
+2025-10-14 21:40:08,747 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214008.jpg
+2025-10-14 21:40:18,889 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214018.jpg
+2025-10-14 21:40:28,907 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214028.jpg
+2025-10-14 21:40:38,998 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214038.jpg
+2025-10-14 21:40:49,076 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214049.jpg
+2025-10-14 21:40:59,182 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214059.jpg
+2025-10-14 21:41:09,349 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214109.jpg
+2025-10-14 21:41:19,678 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214119.jpg
+2025-10-14 21:41:29,821 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214129.jpg
+2025-10-14 21:41:39,891 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214139.jpg
+2025-10-14 21:41:49,964 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214149.jpg
+2025-10-14 21:42:00,114 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214200.jpg
+2025-10-14 21:42:10,255 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214210.jpg
+2025-10-14 21:42:20,389 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214220.jpg
+2025-10-14 21:42:30,556 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214230.jpg
+2025-10-14 21:42:40,594 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214240.jpg
+2025-10-14 21:42:50,678 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214250.jpg
+2025-10-14 21:43:00,856 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214300.jpg
+2025-10-14 21:43:10,971 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214310.jpg
+2025-10-14 21:43:20,977 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214320.jpg
+2025-10-14 21:45:38,382 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 21:45:39,051 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 21:45:39,328 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_214539.jpg'}
+2025-10-14 21:45:39,328 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214539.jpg
+2025-10-14 21:45:39,341 [INFO] ML worker started with clear anomaly detection
+2025-10-14 21:45:39,343 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 21:45:39,374 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.079 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 21:45:39'}
+2025-10-14 21:45:39,374 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 21:45:39'}
+2025-10-14 21:45:49,336 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214549.jpg
+2025-10-14 21:45:59,444 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214559.jpg
+2025-10-14 21:46:09,447 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214609.jpg
+2025-10-14 21:46:19,527 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214619.jpg
+2025-10-14 21:46:29,680 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214629.jpg
+2025-10-14 21:46:39,781 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214639.jpg
+2025-10-14 21:46:49,967 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214649.jpg
+2025-10-14 21:47:00,139 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214700.jpg
+2025-10-14 21:47:10,276 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214710.jpg
+2025-10-14 21:47:20,344 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214720.jpg
+2025-10-14 21:47:30,445 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214730.jpg
+2025-10-14 21:47:40,554 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214740.jpg
+2025-10-14 21:47:50,671 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214750.jpg
+2025-10-14 21:48:00,691 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214800.jpg
+2025-10-14 21:48:10,782 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214810.jpg
+2025-10-14 21:48:20,812 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214820.jpg
+2025-10-14 21:48:30,870 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214830.jpg
+2025-10-14 21:48:40,973 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214840.jpg
+2025-10-14 21:48:51,120 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214851.jpg
+2025-10-14 21:49:01,227 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214901.jpg
+2025-10-14 21:49:11,248 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214911.jpg
+2025-10-14 21:49:21,391 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214921.jpg
+2025-10-14 21:49:31,423 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214931.jpg
+2025-10-14 21:49:41,455 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214941.jpg
+2025-10-14 21:49:51,500 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_214951.jpg
+2025-10-14 21:50:19,098 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 21:50:19,703 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 21:50:19,963 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_215019.jpg'}
+2025-10-14 21:50:19,963 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215019.jpg
+2025-10-14 21:50:19,974 [INFO] ML worker started with clear anomaly detection
+2025-10-14 21:50:19,977 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 21:50:20,010 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.096 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 21:50:20'}
+2025-10-14 21:50:20,011 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 21:50:20'}
+2025-10-14 21:50:30,005 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215030.jpg
+2025-10-14 21:50:40,119 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215040.jpg
+2025-10-14 21:50:50,192 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215050.jpg
+2025-10-14 21:51:00,272 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215100.jpg
+2025-10-14 21:51:10,295 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215110.jpg
+2025-10-14 21:51:20,350 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215120.jpg
+2025-10-14 21:51:30,470 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215130.jpg
+2025-10-14 21:51:40,626 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215140.jpg
+2025-10-14 21:51:50,716 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215150.jpg
+2025-10-14 21:52:00,811 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215200.jpg
+2025-10-14 21:52:10,939 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215210.jpg
+2025-10-14 21:53:50,714 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 21:53:51,305 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 21:53:51,585 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_215351.jpg'}
+2025-10-14 21:53:51,585 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215351.jpg
+2025-10-14 21:53:51,596 [INFO] ML worker started with clear anomaly detection
+2025-10-14 21:53:51,598 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 21:53:51,632 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.083 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 21:53:51'}
+2025-10-14 21:53:51,632 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 21:53:51'}
+2025-10-14 21:54:01,659 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215401.jpg
+2025-10-14 21:54:11,665 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215411.jpg
+2025-10-14 21:54:21,701 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215421.jpg
+2025-10-14 21:54:31,710 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215431.jpg
+2025-10-14 21:54:41,807 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215441.jpg
+2025-10-14 21:54:51,838 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215451.jpg
+2025-10-14 21:55:01,930 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215501.jpg
+2025-10-14 21:55:11,970 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215511.jpg
+2025-10-14 21:55:22,023 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215522.jpg
+2025-10-14 21:55:32,216 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215532.jpg
+2025-10-14 21:55:42,302 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215542.jpg
+2025-10-14 21:55:52,426 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215552.jpg
+2025-10-14 21:56:02,505 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215602.jpg
+2025-10-14 21:56:12,598 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215612.jpg
+2025-10-14 21:56:22,608 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215622.jpg
+2025-10-14 21:57:27,414 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 21:57:28,006 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 21:57:28,287 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_215728.jpg'}
+2025-10-14 21:57:28,288 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215728.jpg
+2025-10-14 21:57:28,299 [INFO] ML worker started with clear anomaly detection
+2025-10-14 21:57:28,301 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 21:57:28,331 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.078 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 21:57:28'}
+2025-10-14 21:57:28,331 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 21:57:28'}
+2025-10-14 21:57:38,420 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215738.jpg
+2025-10-14 21:57:48,473 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215748.jpg
+2025-10-14 21:57:58,505 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215758.jpg
+2025-10-14 21:58:08,584 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215808.jpg
+2025-10-14 21:58:18,657 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215818.jpg
+2025-10-14 21:58:28,669 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215828.jpg
+2025-10-14 21:58:38,701 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215838.jpg
+2025-10-14 21:58:48,786 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215848.jpg
+2025-10-14 21:58:58,898 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215858.jpg
+2025-10-14 21:59:08,917 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215908.jpg
+2025-10-14 21:59:18,953 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215918.jpg
+2025-10-14 21:59:29,113 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215929.jpg
+2025-10-14 21:59:39,243 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215939.jpg
+2025-10-14 21:59:49,264 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215949.jpg
+2025-10-14 21:59:59,284 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_215959.jpg
+2025-10-14 22:00:09,290 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220009.jpg
+2025-10-14 22:00:19,367 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220019.jpg
+2025-10-14 22:00:29,470 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220029.jpg
+2025-10-14 22:00:39,653 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220039.jpg
+2025-10-14 22:00:49,679 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220049.jpg
+2025-10-14 22:00:59,720 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220059.jpg
+2025-10-14 22:01:09,790 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220109.jpg
+2025-10-14 22:01:41,677 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 22:01:42,299 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 22:01:42,565 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_220142.jpg'}
+2025-10-14 22:01:42,565 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220142.jpg
+2025-10-14 22:01:42,578 [INFO] ML worker started with clear anomaly detection
+2025-10-14 22:01:42,580 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 22:01:42,613 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.100 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 22:01:42'}
+2025-10-14 22:01:42,614 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 22:01:42'}
+2025-10-14 22:01:52,602 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220152.jpg
+2025-10-14 22:02:02,763 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220202.jpg
+2025-10-14 22:02:12,909 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220212.jpg
+2025-10-14 22:02:22,940 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220222.jpg
+2025-10-14 22:02:32,979 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220232.jpg
+2025-10-14 22:02:42,980 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220242.jpg
+2025-10-14 22:02:53,164 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220253.jpg
+2025-10-14 22:03:03,281 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220303.jpg
+2025-10-14 22:03:13,291 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220313.jpg
+2025-10-14 22:03:23,354 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220323.jpg
+2025-10-14 22:03:33,445 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220333.jpg
+2025-10-14 22:03:43,526 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220343.jpg
+2025-10-14 22:03:53,571 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220353.jpg
+2025-10-14 22:04:03,756 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220403.jpg
+2025-10-14 22:04:13,927 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220413.jpg
+2025-10-14 22:04:23,956 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220423.jpg
+2025-10-14 22:04:33,988 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220433.jpg
+2025-10-14 22:04:44,039 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220444.jpg
+2025-10-14 22:04:54,149 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220454.jpg
+2025-10-14 22:05:04,222 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220504.jpg
+2025-10-14 22:05:14,324 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220514.jpg
+2025-10-14 22:05:24,408 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220524.jpg
+2025-10-14 22:05:34,503 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220534.jpg
+2025-10-14 22:05:44,537 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220544.jpg
+2025-10-14 22:05:54,622 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220554.jpg
+2025-10-14 22:06:04,757 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220604.jpg
+2025-10-14 22:06:14,838 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220614.jpg
+2025-10-14 22:06:24,861 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220624.jpg
+2025-10-14 22:06:34,906 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220634.jpg
+2025-10-14 22:06:43,980 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.112 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 22:06:43'}
+2025-10-14 22:06:43,980 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 22:06:43'}
+2025-10-14 22:06:44,940 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_220644.jpg'}
+2025-10-14 22:06:44,941 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220644.jpg
+2025-10-14 22:06:54,977 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220654.jpg
+2025-10-14 22:07:05,157 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220705.jpg
+2025-10-14 22:07:15,179 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220715.jpg
+2025-10-14 22:07:25,277 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220725.jpg
+2025-10-14 22:07:35,437 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220735.jpg
+2025-10-14 22:07:45,533 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220745.jpg
+2025-10-14 22:07:55,662 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220755.jpg
+2025-10-14 22:08:05,807 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220805.jpg
+2025-10-14 22:08:15,912 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220815.jpg
+2025-10-14 22:08:25,922 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220825.jpg
+2025-10-14 22:08:36,102 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220836.jpg
+2025-10-14 22:08:46,238 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220846.jpg
+2025-10-14 22:09:22,067 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 22:09:22,683 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 22:09:22,966 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_220922.jpg'}
+2025-10-14 22:09:22,967 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220922.jpg
+2025-10-14 22:09:22,978 [INFO] ML worker started with clear anomaly detection
+2025-10-14 22:09:22,980 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 22:09:23,011 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.105 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 22:09:23'}
+2025-10-14 22:09:23,011 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 22:09:23'}
+2025-10-14 22:09:33,028 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220933.jpg
+2025-10-14 22:09:43,182 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220943.jpg
+2025-10-14 22:09:53,197 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_220953.jpg
+2025-10-14 22:10:03,203 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221003.jpg
+2025-10-14 22:10:59,537 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 22:11:00,141 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 22:11:00,415 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_221100.jpg'}
+2025-10-14 22:11:00,415 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221100.jpg
+2025-10-14 22:11:00,426 [INFO] ML worker started with clear anomaly detection
+2025-10-14 22:11:00,429 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 22:11:00,465 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.106 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 22:11:00'}
+2025-10-14 22:11:00,466 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 22:11:00'}
+2025-10-14 22:11:10,447 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221110.jpg
+2025-10-14 22:11:20,569 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221120.jpg
+2025-10-14 22:11:30,659 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221130.jpg
+2025-10-14 22:11:40,744 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221140.jpg
+2025-10-14 22:11:50,841 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221150.jpg
+2025-10-14 22:14:58,081 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 22:14:58,698 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 22:14:58,980 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_221458.jpg'}
+2025-10-14 22:14:58,980 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221458.jpg
+2025-10-14 22:14:58,991 [INFO] ML worker started with clear anomaly detection
+2025-10-14 22:14:58,993 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 22:14:59,024 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.105 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 22:14:59'}
+2025-10-14 22:14:59,025 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 22:14:59'}
+2025-10-14 22:15:09,049 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221509.jpg
+2025-10-14 22:15:19,060 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221519.jpg
+2025-10-14 22:15:29,231 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221529.jpg
+2025-10-14 22:15:39,414 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221539.jpg
+2025-10-14 22:15:49,449 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221549.jpg
+2025-10-14 22:15:59,610 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221559.jpg
+2025-10-14 22:16:09,621 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221609.jpg
+2025-10-14 22:16:19,768 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221619.jpg
+2025-10-14 22:16:29,883 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221629.jpg
+2025-10-14 22:16:39,919 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221639.jpg
+2025-10-14 22:16:49,985 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221649.jpg
+2025-10-14 22:17:00,025 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221700.jpg
+2025-10-14 22:17:10,601 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221710.jpg
+2025-10-14 22:17:20,662 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221720.jpg
+2025-10-14 22:17:30,721 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221730.jpg
+2025-10-14 22:17:40,876 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221740.jpg
+2025-10-14 22:17:50,937 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221750.jpg
+2025-10-14 22:18:01,093 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221801.jpg
+2025-10-14 22:18:11,190 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221811.jpg
+2025-10-14 22:18:21,256 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221821.jpg
+2025-10-14 22:18:31,316 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221831.jpg
+2025-10-14 22:18:41,441 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221841.jpg
+2025-10-14 22:18:51,452 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221851.jpg
+2025-10-14 22:19:01,602 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221901.jpg
+2025-10-14 22:19:11,771 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221911.jpg
+2025-10-14 22:19:21,811 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221921.jpg
+2025-10-14 22:19:31,926 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221931.jpg
+2025-10-14 22:19:41,993 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221941.jpg
+2025-10-14 22:19:52,100 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_221952.jpg
+2025-10-14 22:20:01,194 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.114 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 22:20:01'}
+2025-10-14 22:20:01,195 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 22:20:01'}
+2025-10-14 22:20:02,183 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_222002.jpg'}
+2025-10-14 22:20:02,183 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222002.jpg
+2025-10-14 22:20:12,258 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222012.jpg
+2025-10-14 22:20:22,308 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222022.jpg
+2025-10-14 22:20:32,418 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222032.jpg
+2025-10-14 22:20:42,601 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222042.jpg
+2025-10-14 22:20:52,779 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222052.jpg
+2025-10-14 22:21:02,923 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222102.jpg
+2025-10-14 22:21:12,973 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222112.jpg
+2025-10-14 22:21:23,132 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222123.jpg
+2025-10-14 22:21:33,245 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222133.jpg
+2025-10-14 22:21:43,481 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222143.jpg
+2025-10-14 22:21:53,608 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222153.jpg
+2025-10-14 22:22:04,002 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222204.jpg
+2025-10-14 22:22:14,087 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222214.jpg
+2025-10-14 22:22:24,250 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222224.jpg
+2025-10-14 22:22:34,408 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222234.jpg
+2025-10-14 22:22:44,554 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222244.jpg
+2025-10-14 22:22:54,666 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222254.jpg
+2025-10-14 22:23:04,752 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222304.jpg
+2025-10-14 22:23:14,820 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222314.jpg
+2025-10-14 22:23:24,865 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222324.jpg
+2025-10-14 22:23:34,872 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222334.jpg
+2025-10-14 22:23:45,128 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222345.jpg
+2025-10-14 22:23:55,379 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222355.jpg
+2025-10-14 22:24:05,397 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222405.jpg
+2025-10-14 22:24:26,936 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222426.jpg
+2025-10-14 22:24:37,039 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222437.jpg
+2025-10-14 22:24:47,060 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222447.jpg
+2025-10-14 22:24:57,215 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222457.jpg
+2025-10-14 22:25:03,228 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.110 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 22:25:03'}
+2025-10-14 22:25:03,228 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 22:25:03'}
+2025-10-14 22:25:07,320 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_222507.jpg'}
+2025-10-14 22:25:07,321 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222507.jpg
+2025-10-14 22:25:17,360 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222517.jpg
+2025-10-14 22:25:41,452 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 22:25:42,089 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 22:25:42,355 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_222542.jpg'}
+2025-10-14 22:25:42,355 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222542.jpg
+2025-10-14 22:25:42,367 [INFO] ML worker started with clear anomaly detection
+2025-10-14 22:25:42,370 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 22:25:42,409 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.102 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 22:25:42'}
+2025-10-14 22:25:42,410 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 22:25:42'}
+2025-10-14 22:25:52,432 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222552.jpg
+2025-10-14 22:26:02,439 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222602.jpg
+2025-10-14 22:26:12,542 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222612.jpg
+2025-10-14 22:26:22,555 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222622.jpg
+2025-10-14 22:26:32,562 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222632.jpg
+2025-10-14 22:26:42,666 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222642.jpg
+2025-10-14 22:26:52,838 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222652.jpg
+2025-10-14 22:27:02,948 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_222702.jpg
+2025-10-14 22:33:29,257 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 22:33:29,851 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 22:33:30,137 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_223330.jpg'}
+2025-10-14 22:33:30,138 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223330.jpg
+2025-10-14 22:33:30,150 [INFO] ML worker started with clear anomaly detection
+2025-10-14 22:33:30,152 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 22:33:30,187 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.082 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 22:33:30'}
+2025-10-14 22:33:30,187 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 22:33:30'}
+2025-10-14 22:33:40,180 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223340.jpg
+2025-10-14 22:33:50,181 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223350.jpg
+2025-10-14 22:34:00,245 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223400.jpg
+2025-10-14 22:34:10,410 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223410.jpg
+2025-10-14 22:34:20,553 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223420.jpg
+2025-10-14 22:34:30,569 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223430.jpg
+2025-10-14 22:34:40,671 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223440.jpg
+2025-10-14 22:34:50,787 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223450.jpg
+2025-10-14 22:35:00,816 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223500.jpg
+2025-10-14 22:35:10,925 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223510.jpg
+2025-10-14 22:35:21,114 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223521.jpg
+2025-10-14 22:35:31,097 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223531.jpg
+2025-10-14 22:35:41,173 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223541.jpg
+2025-10-14 22:35:51,276 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223551.jpg
+2025-10-14 22:36:01,372 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223601.jpg
+2025-10-14 22:36:11,423 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223611.jpg
+2025-10-14 22:36:21,591 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223621.jpg
+2025-10-14 22:36:31,755 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223631.jpg
+2025-10-14 22:36:41,766 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223641.jpg
+2025-10-14 22:36:51,867 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223651.jpg
+2025-10-14 22:37:01,951 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223701.jpg
+2025-10-14 22:37:12,050 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223712.jpg
+2025-10-14 22:37:22,090 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223722.jpg
+2025-10-14 22:37:32,125 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223732.jpg
+2025-10-14 22:37:42,256 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223742.jpg
+2025-10-14 22:37:52,313 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223752.jpg
+2025-10-14 22:38:02,452 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_223802.jpg
+2025-10-14 22:43:08,888 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-14 22:43:09,479 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-14 22:43:09,758 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251014_224309.jpg'}
+2025-10-14 22:43:09,759 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_224309.jpg
+2025-10-14 22:43:09,771 [INFO] ML worker started with clear anomaly detection
+2025-10-14 22:43:09,773 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-14 22:43:09,803 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.084 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-14 22:43:09'}
+2025-10-14 22:43:09,804 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-14 22:43:09'}
+2025-10-14 22:43:19,883 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_224319.jpg
+2025-10-14 22:43:30,054 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_224330.jpg
+2025-10-14 22:43:40,197 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_224340.jpg
+2025-10-14 22:43:50,223 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_224350.jpg
+2025-10-14 22:44:00,324 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_224400.jpg
+2025-10-14 22:44:10,523 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_224410.jpg
+2025-10-14 22:44:20,938 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251014_224420.jpg
+2025-10-15 00:16:57,996 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-15 00:16:58,848 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-15 00:16:59,225 [INFO] ML worker started with clear anomaly detection
+2025-10-15 00:16:59,231 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-15 00:16:59,276 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.058 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-15 00:16:59'}
+2025-10-15 00:17:00,237 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251015_001700.jpg'}
+2025-10-15 00:17:00,238 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001700.jpg
+2025-10-15 00:17:11,561 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001711.jpg
+2025-10-15 00:17:21,661 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001721.jpg
+2025-10-15 00:17:31,706 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001731.jpg
+2025-10-15 00:17:41,917 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001741.jpg
+2025-10-15 00:17:52,141 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001752.jpg
+2025-10-15 00:18:03,467 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001803.jpg
+2025-10-15 00:18:14,288 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001814.jpg
+2025-10-15 00:18:24,367 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001824.jpg
+2025-10-15 00:18:34,420 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001834.jpg
+2025-10-15 00:18:44,497 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001844.jpg
+2025-10-15 00:18:54,664 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001854.jpg
+2025-10-15 00:19:04,806 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001904.jpg
+2025-10-15 00:19:15,067 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001915.jpg
+2025-10-15 00:19:25,191 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001925.jpg
+2025-10-15 00:19:35,338 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001935.jpg
+2025-10-15 00:19:45,392 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001945.jpg
+2025-10-15 00:19:55,480 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_001955.jpg
+2025-10-15 00:20:05,482 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002005.jpg
+2025-10-15 00:20:15,662 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002015.jpg
+2025-10-15 00:20:25,723 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002025.jpg
+2025-10-15 00:20:36,292 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002036.jpg
+2025-10-15 00:20:46,436 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002046.jpg
+2025-10-15 00:20:56,499 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002056.jpg
+2025-10-15 00:21:12,239 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002112.jpg
+2025-10-15 00:21:22,268 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002122.jpg
+2025-10-15 00:21:41,065 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002141.jpg
+2025-10-15 00:21:51,225 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002151.jpg
+2025-10-15 00:22:01,364 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251015_002201.jpg'}
+2025-10-15 00:22:01,365 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002201.jpg
+2025-10-15 00:22:02,094 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.098 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-15 00:22:02'}
+2025-10-15 00:22:11,458 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002211.jpg
+2025-10-15 00:22:21,628 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002221.jpg
+2025-10-15 00:23:42,869 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-15 00:23:43,633 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-15 00:23:44,103 [INFO] ML worker started with clear anomaly detection
+2025-10-15 00:23:44,107 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-15 00:23:44,168 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.055 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-15 00:23:44'}
+2025-10-15 00:24:06,544 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251015_002406.jpg'}
+2025-10-15 00:24:06,545 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002406.jpg
+2025-10-15 00:24:16,568 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002416.jpg
+2025-10-15 00:24:26,756 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002426.jpg
+2025-10-15 00:24:36,952 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002436.jpg
+2025-10-15 00:24:46,960 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002446.jpg
+2025-10-15 00:24:57,349 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002457.jpg
+2025-10-15 00:25:17,515 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002517.jpg
+2025-10-15 00:25:27,608 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002527.jpg
+2025-10-15 00:25:39,729 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002539.jpg
+2025-10-15 00:25:49,907 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002549.jpg
+2025-10-15 00:26:00,125 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002600.jpg
+2025-10-15 00:26:10,192 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002610.jpg
+2025-10-15 00:26:21,382 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002621.jpg
+2025-10-15 00:26:31,487 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002631.jpg
+2025-10-15 00:26:43,236 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002643.jpg
+2025-10-15 00:26:53,318 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002653.jpg
+2025-10-15 00:27:03,443 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002703.jpg
+2025-10-15 00:27:13,482 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_002713.jpg
+2025-10-15 19:17:56,364 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-15 19:17:57,147 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-15 19:17:57,442 [INFO] ML worker started with clear anomaly detection
+2025-10-15 19:17:57,446 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-15 19:17:57,480 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.052 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-15 19:17:57'}
+2025-10-15 19:18:07,704 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251015_191807.jpg'}
+2025-10-15 19:18:07,705 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_191807.jpg
+2025-10-15 19:18:17,753 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_191817.jpg
+2025-10-15 19:18:28,216 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_191828.jpg
+2025-10-15 19:18:38,286 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_191838.jpg
+2025-10-15 19:18:49,089 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_191849.jpg
+2025-10-15 19:19:17,130 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_191917.jpg
+2025-10-15 19:19:33,509 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_191933.jpg
+2025-10-15 19:19:45,293 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_191945.jpg
+2025-10-15 19:19:55,356 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_191955.jpg
+2025-10-15 19:20:06,646 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192006.jpg
+2025-10-15 19:20:16,967 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192016.jpg
+2025-10-15 19:20:29,189 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192029.jpg
+2025-10-15 19:20:39,563 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192039.jpg
+2025-10-15 19:20:49,582 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192049.jpg
+2025-10-15 19:21:11,493 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192111.jpg
+2025-10-15 19:21:22,707 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192122.jpg
+2025-10-15 19:21:32,785 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192132.jpg
+2025-10-15 19:21:42,839 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192142.jpg
+2025-10-15 19:21:52,867 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192152.jpg
+2025-10-15 19:22:03,079 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192203.jpg
+2025-10-15 19:22:13,089 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192213.jpg
+2025-10-15 19:22:23,243 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192223.jpg
+2025-10-15 19:22:33,247 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192233.jpg
+2025-10-15 19:22:43,311 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192243.jpg
+2025-10-15 19:22:53,315 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192253.jpg
+2025-10-15 19:22:58,758 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.104 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-15 19:22:58'}
+2025-10-15 19:23:03,453 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192303.jpg
+2025-10-15 19:23:13,584 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251015_192313.jpg'}
+2025-10-15 19:23:13,585 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192313.jpg
+2025-10-15 19:23:23,557 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192323.jpg
+2025-10-15 19:23:33,656 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192333.jpg
+2025-10-15 19:23:49,048 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192349.jpg
+2025-10-15 19:23:59,345 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192359.jpg
+2025-10-15 19:24:19,900 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192419.jpg
+2025-10-15 19:24:29,983 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192429.jpg
+2025-10-15 19:24:44,320 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192444.jpg
+2025-10-15 19:24:49,389 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-15 19:24:49'}
+2025-10-15 19:25:00,405 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192500.jpg
+2025-10-15 19:25:10,804 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192510.jpg
+2025-10-15 19:25:15,621 [WARNING] 🚨 ALERTE [cpu_warning] Utilisation CPU > 90% | None
+2025-10-15 19:25:19,749 [WARNING] 🚨 ALERTE [anomaly_cpu_attack] 🚨 CPU CRITIQUE - Attaque ou surcharge détectée - CPU utilisé à 91.6% (seuil: 90%) | {'severity': 'CRITICAL', 'details': 'Le processeur est anormalement sollicité. Risque de cryptojacking ou malware.', 'timestamp': '2025-10-15 19:25:19'}
+2025-10-15 19:25:21,081 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192521.jpg
+2025-10-15 19:25:29,875 [WARNING] 🚨 ALERTE [anomaly_cpu_high] ⚠️ CPU ÉLEVÉ - Surveillance requise - CPU utilisé à 87.8% (seuil: 80%) | {'severity': 'HIGH', 'details': 'Utilisation CPU anormalement élevée pour la période actuelle.', 'timestamp': '2025-10-15 19:25:29'}
+2025-10-15 19:26:00,064 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192600.jpg
+2025-10-15 19:26:17,594 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192617.jpg
+2025-10-15 19:26:27,717 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192627.jpg
+2025-10-15 19:26:47,377 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192647.jpg
+2025-10-15 19:26:57,633 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192657.jpg
+2025-10-15 19:27:07,813 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192707.jpg
+2025-10-15 19:27:18,124 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192718.jpg
+2025-10-15 19:27:28,920 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192728.jpg
+2025-10-15 19:27:39,010 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192739.jpg
+2025-10-15 19:27:49,753 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192749.jpg
+2025-10-15 19:28:01,073 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.106 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-15 19:28:01'}
+2025-10-15 19:28:04,074 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192804.jpg
+2025-10-15 19:28:14,163 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251015_192814.jpg'}
+2025-10-15 19:28:14,163 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192814.jpg
+2025-10-15 19:28:24,250 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192824.jpg
+2025-10-15 19:28:34,445 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192834.jpg
+2025-10-15 19:28:44,594 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192844.jpg
+2025-10-15 19:28:54,782 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192854.jpg
+2025-10-15 19:29:04,829 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192904.jpg
+2025-10-15 19:29:14,982 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192914.jpg
+2025-10-15 19:29:25,175 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192925.jpg
+2025-10-15 19:29:35,295 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192935.jpg
+2025-10-15 19:29:45,324 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192945.jpg
+2025-10-15 19:29:51,659 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-15 19:29:51'}
+2025-10-15 19:29:55,482 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_192955.jpg
+2025-10-15 19:30:05,649 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_193005.jpg
+2025-10-15 19:30:15,807 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_193015.jpg
+2025-10-15 19:30:25,849 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_193025.jpg
+2025-10-15 19:30:35,945 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_193035.jpg
+2025-10-15 19:30:46,009 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_193046.jpg
+2025-10-15 19:32:25,941 [INFO] ✅ Modèle ONNX chargé avec succès.
+2025-10-15 19:32:26,624 [INFO] 🎥 Caméra active — détection en cours...
+2025-10-15 19:32:27,005 [INFO] ML worker started with clear anomaly detection
+2025-10-15 19:32:27,010 [INFO] 🚀 Starting Surveillance System with Clear Anomaly Detection
+2025-10-15 19:32:27,074 [WARNING] 🚨 ALERTE [anomaly_ml_anomaly] 🤖 COMPORTEMENT ANORMAL DÉTECTÉ PAR IA - Score d'anomalie: -0.036 | {'severity': 'HIGH', 'details': "L'intelligence artificielle a détecté un comportement système inhabituel.", 'timestamp': '2025-10-15 19:32:27'}
+2025-10-15 19:33:07,251 [WARNING] 🚨 ALERTE [anomaly_usb_breach] 🔌 PÉRIPHÉRIQUE USB DÉTECTÉ - Device USB branché sans autorisation | {'severity': 'MEDIUM', 'details': 'Un périphérique USB a été connecté hors surveillance.', 'timestamp': '2025-10-15 19:33:07'}
+2025-10-15 19:33:19,272 [WARNING] 🚨 ALERTE [camera_intrusion] Personne détectée (confiance > 50%) | {'image_path': 'visualizations/detection_20251015_193319.jpg'}
+2025-10-15 19:33:19,272 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_193319.jpg
+2025-10-15 19:33:56,453 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_193356.jpg
+2025-10-15 19:34:07,263 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_193407.jpg
+2025-10-15 19:34:17,419 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_193417.jpg
+2025-10-15 19:34:28,277 [WARNING] 🚨 Personne détectée — Image sauvegardée : visualizations/detection_20251015_193428.jpg

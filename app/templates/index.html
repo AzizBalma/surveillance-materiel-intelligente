@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Dashboard de Surveillance Intelligente</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+    
+    :root {
+      --bg-primary: #0a0e27;
+      --bg-secondary: #131829;
+      --bg-card: #1a1f3a;
+      --accent-primary: #6366f1;
+      --accent-secondary: #8b5cf6;
+      --accent-success: #10b981;
+      --accent-warning: #f59e0b;
+      --accent-danger: #ef4444;
+      --accent-info: #06b6d4;
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --border-color: rgba(148, 163, 184, 0.1);
+      --glow-color: rgba(99, 102, 241, 0.3);
+    }
+    
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    html, body {
+      height: 100%;
+      overflow: hidden;
+    }
+    
+    body {
+      background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 50%, #0f1729 100%);
+      color: var(--text-primary);
+      font-family: 'Inter', sans-serif;
+      height: 100vh;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    body::before {
+      content: '';
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: 
+        radial-gradient(ellipse at 20% 30%, rgba(99, 102, 241, 0.08) 0%, transparent 50%),
+        radial-gradient(ellipse at 80% 70%, rgba(139, 92, 246, 0.08) 0%, transparent 50%);
+      pointer-events: none;
+      z-index: 0;
+    }
+    
+    .container {
+      position: relative;
+      z-index: 1;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    /* Cards */
+    .dashboard-card {
+      background: rgba(26, 31, 58, 0.7);
+      backdrop-filter: blur(20px);
+      border-radius: 16px;
+      border: 1px solid var(--border-color);
+      padding: 1rem;
+      box-shadow: 
+        0 4px 6px rgba(0, 0, 0, 0.1),
+        0 10px 40px rgba(0, 0, 0, 0.2),
+        inset 0 1px 0 rgba(255, 255, 255, 0.03);
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+      overflow: hidden;
+      height: 100%;
+    }
+    
+    .dashboard-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(99, 102, 241, 0.3), transparent);
+    }
+    
+    .dashboard-card:hover {
+      transform: translateY(-2px);
+      border-color: rgba(99, 102, 241, 0.3);
+      box-shadow: 
+        0 8px 12px rgba(0, 0, 0, 0.15),
+        0 20px 60px rgba(99, 102, 241, 0.15),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    }
+    
+    /* Header */
+    .header-title {
+      font-size: 1.75rem;
+      font-weight: 800;
+      background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #06b6d4 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      letter-spacing: -0.02em;
+      text-shadow: 0 0 60px rgba(99, 102, 241, 0.4);
+    }
+    
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.4rem 0.8rem;
+      background: rgba(16, 185, 129, 0.1);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      border-radius: 50px;
+      color: var(--accent-success);
+      font-size: 0.75rem;
+      font-weight: 600;
+      backdrop-filter: blur(10px);
+    }
+    
+    .status-dot {
+      width: 6px;
+      height: 6px;
+      background: var(--accent-success);
+      border-radius: 50%;
+      animation: pulse-dot 2s ease-in-out infinite;
+      box-shadow: 0 0 10px var(--accent-success);
+    }
+    
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.6; transform: scale(1.2); }
+    }
+    
+    /* Section Titles */
+    .section-title {
+      font-size: 1rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+      color: var(--text-primary);
+    }
+    
+    .section-icon {
+      width: 28px;
+      height: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+      border-radius: 8px;
+      font-size: 0.8rem;
+      box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+    }
+    
+    /* Video Container */
+    .video-container {
+      position: relative;
+      overflow: hidden;
+      border-radius: 12px;
+      background: var(--bg-secondary);
+      height: 100%;
+    }
+    
+    .video-container img {
+      width: 100%;
+      border-radius: 12px;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    
+    .video-container:hover img {
+      transform: scale(1.03);
+    }
+    
+    .live-badge {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      background: rgba(239, 68, 68, 0.95);
+      backdrop-filter: blur(10px);
+      color: white;
+      padding: 0.3rem 0.7rem;
+      border-radius: 50px;
+      font-size: 0.7rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      box-shadow: 0 4px 12px rgba(239, 68, 68, 0.4);
+      z-index: 10;
+    }
+    
+    .live-dot {
+      width: 6px;
+      height: 6px;
+      background: white;
+      border-radius: 50%;
+      animation: blink 1.5s ease-in-out infinite;
+    }
+    
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+    
+    /* Metrics Grid */
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      gap: 0.7rem;
+    }
+    
+    .metric-card {
+      background: linear-gradient(135deg, rgba(99, 102, 241, 0.05), rgba(139, 92, 246, 0.05));
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+      padding: 0.8rem;
+      transition: all 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .metric-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+      transform: scaleX(0);
+      transition: transform 0.3s ease;
+    }
+    
+    .metric-card:hover {
+      background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(139, 92, 246, 0.1));
+      border-color: rgba(99, 102, 241, 0.3);
+      transform: translateY(-2px);
+    }
+    
+    .metric-card:hover::before {
+      transform: scaleX(1);
+    }
+    
+    .metric-label {
+      color: var(--text-secondary);
+      font-size: 0.65rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      margin-bottom: 0.3rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    .metric-value {
+      color: var(--text-primary);
+      font-size: 1.2rem;
+      font-weight: 700;
+      font-feature-settings: 'tnum';
+    }
+    
+    /* Status Badges */
+    .person-badge {
+      padding: 0.6rem 1rem;
+      border-radius: 10px;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 700;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      transition: all 0.3s ease;
+      border: 1px solid transparent;
+    }
+    
+    .anomaly-normal { 
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(5, 150, 105, 0.2));
+      border-color: rgba(16, 185, 129, 0.3);
+      color: var(--accent-success);
+      box-shadow: 0 4px 12px rgba(16, 185, 129, 0.2);
+    }
+    
+    .anomaly-warning { 
+      background: linear-gradient(135deg, rgba(245, 158, 11, 0.2), rgba(217, 119, 6, 0.2));
+      border-color: rgba(245, 158, 11, 0.3);
+      color: var(--accent-warning);
+      box-shadow: 0 4px 12px rgba(245, 158, 11, 0.2);
+    }
+    
+    .anomaly-critical { 
+      background: linear-gradient(135deg, rgba(239, 68, 68, 0.2), rgba(220, 38, 38, 0.2));
+      border-color: rgba(239, 68, 68, 0.3);
+      color: var(--accent-danger);
+      box-shadow: 0 4px 12px rgba(239, 68, 68, 0.2);
+      animation: pulse-critical 2s ease-in-out infinite;
+    }
+    
+    @keyframes pulse-critical {
+      0%, 100% { 
+        box-shadow: 0 4px 12px rgba(239, 68, 68, 0.2);
+      }
+      50% { 
+        box-shadow: 0 4px 20px rgba(239, 68, 68, 0.4);
+      }
+    }
+    
+    /* Alerts */
+    .alert-item {
+      background: linear-gradient(90deg, rgba(239, 68, 68, 0.1) 0%, transparent 100%);
+      border-left: 3px solid var(--accent-danger);
+      color: var(--text-primary);
+      padding: 0.7rem;
+      border-radius: 8px;
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: flex-start;
+      gap: 0.7rem;
+      transition: all 0.3s ease;
+      border: 1px solid rgba(239, 68, 68, 0.2);
+    }
+    
+    .alert-item:hover {
+      background: linear-gradient(90deg, rgba(239, 68, 68, 0.15) 0%, rgba(239, 68, 68, 0.05) 100%);
+      border-left-width: 4px;
+      transform: translateX(4px);
+    }
+    
+    .alert-icon {
+      width: 24px;
+      height: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(239, 68, 68, 0.2);
+      border-radius: 6px;
+      flex-shrink: 0;
+    }
+    
+    /* Button */
+    .btn-primary {
+      background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+      color: white;
+      font-weight: 600;
+      padding: 0.6rem 1.2rem;
+      border-radius: 10px;
+      transition: all 0.3s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+      border: none;
+      cursor: pointer;
+      text-decoration: none;
+      font-size: 0.75rem;
+      letter-spacing: 0.3px;
+    }
+    
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(99, 102, 241, 0.4);
+    }
+    
+    .btn-primary:active {
+      transform: translateY(0);
+    }
+    
+    /* Scrollbar */
+    .custom-scrollbar::-webkit-scrollbar {
+      width: 4px;
+    }
+    
+    .custom-scrollbar::-webkit-scrollbar-track {
+      background: rgba(148, 163, 184, 0.05);
+      border-radius: 10px;
+    }
+    
+    .custom-scrollbar::-webkit-scrollbar-thumb {
+      background: rgba(99, 102, 241, 0.5);
+      border-radius: 10px;
+    }
+    
+    .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+      background: rgba(99, 102, 241, 0.7);
+    }
+    
+    /* Toast Notification */
+    .toast {
+      position: fixed;
+      top: 1rem;
+      right: 1rem;
+      padding: 0.8rem 1.2rem;
+      border-radius: 10px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+      z-index: 1000;
+      backdrop-filter: blur(20px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      animation: slideIn 0.3s ease-out;
+      max-width: 300px;
+    }
+    
+    @keyframes slideIn {
+      from {
+        transform: translateX(100%);
+        opacity: 0;
+      }
+      to {
+        transform: translateX(0);
+        opacity: 1;
+      }
+    }
+    
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header-title {
+        font-size: 1.5rem;
+      }
+      
+      .metrics-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      
+      .dashboard-card {
+        padding: 0.8rem;
+      }
+    }
+    
+    /* Details Text */
+    .details-text {
+      font-size: 0.75rem;
+      color: var(--text-secondary);
+      line-height: 1.4;
+    }
+    
+    .details-text strong {
+      color: var(--text-primary);
+      font-weight: 600;
+    }
+    
+    /* Main content grid */
+    .main-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 0.8rem;
+      flex: 1;
+      overflow: hidden;
+      height: calc(100vh - 100px);
+    }
+    
+    .left-column {
+      display: grid;
+      grid-template-rows: 3fr 1fr; /* Vidéo agrandie : 3 parts pour la vidéo, 1 part pour les métriques */
+      gap: 0.8rem;
+      overflow: hidden;
+    }
+    
+    .right-column {
+      display: grid;
+      grid-template-rows: 1fr 1fr 1fr;
+      gap: 0.8rem;
+      overflow: hidden;
+    }
+    
+    /* Content areas */
+    .content-area {
+      overflow: hidden;
+    }
+    
+    /* Alerts container */
+    .alerts-container {
+      max-height: 120px;
+      overflow-y: auto;
+    }
+
+    /* Video area - plus grande */
+    .video-area {
+      height: 100%;
+    }
+
+    /* Metrics area - plus compacte */
+    .metrics-area {
+      height: 100%;
+    }
+  </style>
+  <script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+</head>
+<body class="p-2">
+<div class="container mx-auto">
+
+  <!-- Header -->
+  <header class="text-center mb-2">
+    <h1 class="header-title">
+      <i class="fas fa-brain"></i> Surveillance Intelligente
+    </h1>
+    <p class="text-sm text-gray-400 font-light">Surveillance en temps réel et détection d'anomalies par IA</p>
+    <div class="flex justify-center mt-1">
+      <div class="status-badge">
+        <span class="status-dot"></span>
+        <span>Système Actif</span>
+        <span class="text-gray-400">•</span>
+        <span id="last-update" class="text-gray-400">--:--:--</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Dashboard Grid -->
+  <div class="main-grid">
+    
+    <!-- Left Column - Video Feed & Main Metrics -->
+    <div class="left-column">
+      
+      <!-- Video Feed - Agrandie -->
+      <div class="content-area video-area">
+        <div class="dashboard-card video-container">
+          <h2 class="section-title">
+            <span class="section-icon"><i class="fas fa-video"></i></span>
+            Flux Caméra en Direct
+          </h2>
+          <div class="relative h-full">
+            <img id="video" src="/video_feed" alt="Flux caméra en direct">
+            <div class="live-badge">
+              <span class="live-dot"></span>
+              EN DIRECT
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- System Metrics - Plus compact -->
+      <div class="content-area metrics-area">
+        <div class="dashboard-card">
+          <h2 class="section-title">
+            <span class="section-icon"><i class="fas fa-gauge-high"></i></span>
+            Métriques Système
+          </h2>
+          <div class="metrics-grid">
+            <div class="metric-card">
+              <div class="metric-label">
+                <i class="fas fa-microchip" style="color: #6366f1;"></i> CPU
+              </div>
+              <div id="cpu" class="metric-value">--%</div>
+            </div>
+            <div class="metric-card">
+              <div class="metric-label">
+                <i class="fas fa-memory" style="color: #8b5cf6;"></i> RAM
+              </div>
+              <div id="ram" class="metric-value">--%</div>
+            </div>
+            <div class="metric-card">
+              <div class="metric-label">
+                <i class="fas fa-list-check" style="color: #10b981;"></i> Processus
+              </div>
+              <div id="proc" class="metric-value">--</div>
+            </div>
+            <div class="metric-card">
+              <div class="metric-label">
+                <i class="fas fa-temperature-half" style="color: #ef4444;"></i> Température
+              </div>
+              <div id="temp" class="metric-value">--°C</div>
+            </div>
+            <div class="metric-card">
+              <div class="metric-label">
+                <i class="fas fa-upload" style="color: #f59e0b;"></i> Upload
+              </div>
+              <div id="sent" class="metric-value">--</div>
+            </div>
+            <div class="metric-card">
+              <div class="metric-label">
+                <i class="fas fa-download" style="color: #06b6d4;"></i> Download
+              </div>
+              <div id="recv" class="metric-value">--</div>
+            </div>
+            <div class="metric-card">
+              <div class="metric-label">
+                <i class="fas fa-usb" style="color: #a855f7;"></i> USB
+              </div>
+              <div id="usb" class="metric-value">--</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Right Sidebar - Status & Alerts -->
+    <div class="right-column">
+      
+      <!-- Anomaly Detection -->
+      <div class="content-area">
+        <div class="dashboard-card">
+          <h2 class="section-title">
+            <span class="section-icon"><i class="fas fa-radar"></i></span>
+            Détection d'Anomalies
+          </h2>
+          <div id="anomaly-status" class="person-badge anomaly-normal mb-2">
+            <i class="fas fa-check-circle"></i> SYSTÈME NORMAL
+          </div>
+          <div id="anomaly-message" class="font-semibold mb-1 text-xs" style="color: var(--accent-success);">
+            Aucune anomalie détectée
+          </div>
+          <div id="anomaly-cause" class="details-text">
+            Tous les systèmes fonctionnent normalement
+          </div>
+        </div>
+      </div>
+      
+      <!-- Person Detection -->
+      <div class="content-area">
+        <div class="dashboard-card">
+          <h2 class="section-title">
+            <span class="section-icon"><i class="fas fa-user-shield"></i></span>
+            Détection de Personnes
+          </h2>
+          <div id="person-status" class="person-badge anomaly-normal mb-2">
+            <i class="fas fa-check-circle"></i> AUCUNE PERSONNE
+          </div>
+          <div id="person-details" class="details-text">
+            Aucune détection récente
+          </div>
+        </div>
+      </div>
+      
+      <!-- Recent Alerts -->
+      <div class="content-area">
+        <div class="dashboard-card">
+          <h2 class="section-title">
+            <span class="section-icon"><i class="fas fa-bell"></i></span>
+            Alertes Récentes
+          </h2>
+          <div id="alerts" class="custom-scrollbar alerts-container space-y-1 pr-1">
+            <div class="text-center text-gray-500 py-4">
+              <i class="fas fa-inbox text-xl mb-1 opacity-50"></i>
+              <p class="font-medium text-xs">Aucune alerte récente</p>
+            </div>
+          </div>
+          <div class="mt-2 text-center">
+            <a href="/alerts" class="btn-primary">
+              <i class="fas fa-list"></i> Voir toutes les alertes
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const socket = io('http://127.0.0.1:5000', { transports: ["websocket","polling"] });
+
+function updateLastUpdateTime() {
+  const now = new Date();
+  document.getElementById('last-update').textContent = now.toLocaleTimeString('fr-FR');
+}
+
+socket.on('system_update', d => {
+  if(d.system_metrics){
+    document.getElementById('cpu').innerText = d.system_metrics.cpu_usage + '%';
+    document.getElementById('ram').innerText = d.system_metrics.memory_usage + '%';
+    document.getElementById('proc').innerText = d.system_metrics.process_count;
+    document.getElementById('temp').innerText = d.system_metrics.temperature + '°C';
+    document.getElementById('sent').innerText = d.system_metrics.bytes_sent;
+    document.getElementById('recv').innerText = d.system_metrics.bytes_recv;
+    document.getElementById('usb').innerText = d.system_metrics.usb_connected;
+    updateLastUpdateTime();
+  }
+});
+
+socket.on('advanced_anomaly', data => {
+  const report = data.report;
+  const anomalyStatus = document.getElementById('anomaly-status');
+  const anomalyMessage = document.getElementById('anomaly-message');
+  const anomalyCause = document.getElementById('anomaly-cause');
+
+  if (report.anomalies && report.anomalies.length > 0) {
+    const mainAnomaly = report.anomalies[0];
+    
+    if (mainAnomaly.severity === 'CRITICAL') {
+      anomalyStatus.className = 'person-badge anomaly-critical';
+      anomalyStatus.innerHTML = '<i class="fas fa-exclamation-triangle"></i> CRITIQUE';
+      anomalyMessage.style.color = 'var(--accent-danger)';
+    } else if (mainAnomaly.severity === 'HIGH') {
+      anomalyStatus.className = 'person-badge anomaly-warning';
+      anomalyStatus.innerHTML = '<i class="fas fa-exclamation-circle"></i> ALERTE';
+      anomalyMessage.style.color = 'var(--accent-warning)';
+    } else {
+      anomalyStatus.className = 'person-badge anomaly-warning';
+      anomalyStatus.innerHTML = '<i class="fas fa-info-circle"></i> ATTENTION';
+      anomalyMessage.style.color = 'var(--accent-warning)';
+    }
+
+    anomalyMessage.innerHTML = mainAnomaly.message;
+    anomalyCause.innerHTML = `<strong>Cause:</strong> ${mainAnomaly.cause}`;
+    
+  } else {
+    anomalyStatus.className = 'person-badge anomaly-normal';
+    anomalyStatus.innerHTML = '<i class="fas fa-check-circle"></i> NORMAL';
+    anomalyMessage.style.color = 'var(--accent-success)';
+    anomalyMessage.innerText = 'Aucune anomalie détectée';
+    anomalyCause.innerText = 'Tous les systèmes fonctionnent normalement';
+  }
+  updateLastUpdateTime();
+});
+
+socket.on('ml_update', d => {
+  if(d.ml && d.ml.iforest_anomaly) {
+    const anomalyStatus = document.getElementById('anomaly-status');
+    const anomalyMessage = document.getElementById('anomaly-message');
+    const anomalyCause = document.getElementById('anomaly-cause');
+    
+    anomalyStatus.className = 'person-badge anomaly-warning';
+    anomalyStatus.innerHTML = '<i class="fas fa-robot"></i> ALERTE IA';
+    anomalyMessage.style.color = 'var(--accent-warning)';
+    anomalyMessage.innerText = 'Comportement anormal détecté par intelligence artificielle';
+    anomalyCause.innerText = 'Le système ML a identifié un comportement inhabituel';
+    updateLastUpdateTime();
+  }
+});
+
+socket.on('new_alert', alert => {
+  const alertsContainer = document.getElementById('alerts');
+  
+  const alertElement = document.createElement('div');
+  alertElement.className = 'alert-item';
+  
+  let alertIcon = 'fas fa-bell';
+  if (alert.type.includes('person') || alert.type.includes('intrusion')) {
+    alertIcon = 'fas fa-user-secret';
+  } else if (alert.type.includes('system')) {
+    alertIcon = 'fas fa-microchip';
+  } else if (alert.type.includes('anomaly')) {
+    alertIcon = 'fas fa-radar';
+  }
+  
+  const timestamp = alert.timestamp || new Date().toLocaleString('fr-FR');
+  alertElement.innerHTML = `
+    <div class="alert-icon">
+      <i class="${alertIcon}"></i>
+    </div>
+    <div class="flex-1">
+      <strong class="block mb-1 text-xs">${alert.type}</strong>
+      <div class="text-xs text-gray-400">${alert.message}</div>
+      <small class="text-xs text-gray-500 mt-1 block">${timestamp}</small>
+    </div>
+  `;
+  
+  alertsContainer.prepend(alertElement);
+  if(alertsContainer.childElementCount > 10) {
+    alertsContainer.removeChild(alertsContainer.lastChild);
+  }
+
+  const noAlertsMsg = alertsContainer.querySelector('.text-center');
+  if (noAlertsMsg) {
+    noAlertsMsg.remove();
+  }
+
+  if(alert.type === "camera_intrusion" || alert.type.includes("person")){
+    const personStatus = document.getElementById('person-status');
+    const personDetails = document.getElementById('person-details');
+    const personCount = (alert.data && alert.data.person_count) ? alert.data.person_count : 1;
+    
+    personStatus.className = 'person-badge anomaly-critical';
+    personStatus.innerHTML = '<i class="fas fa-exclamation-triangle"></i> PERSONNE DÉTECTÉE';
+    personDetails.innerHTML = `
+      <strong>Détection:</strong> ${personCount} personne(s)<br>
+      <strong>Heure:</strong> ${timestamp}
+    `;
+    
+    setTimeout(() => {
+      personStatus.className = 'person-badge anomaly-normal';
+      personStatus.innerHTML = '<i class="fas fa-check-circle"></i> AUCUNE PERSONNE';
+      personDetails.innerText = 'Aucune détection récente';
+    }, 120000);
+  }
+  updateLastUpdateTime();
+});
+
+socket.on('ml_anomaly', p => {
+  showToast(`⚠️ ALERTE SYSTÈME: Comportement anormal détecté à ${p.timestamp}`, 'warning');
+});
+
+function showToast(message, type = 'info') {
+  const toast = document.createElement('div');
+  toast.className = 'toast';
+  
+  let bgColor = 'rgba(99, 102, 241, 0.9)';
+  let icon = 'info-circle';
+  
+  if (type === 'warning') {
+    bgColor = 'rgba(245, 158, 11, 0.9)';
+    icon = 'exclamation-triangle';
+  } else if (type === 'error') {
+    bgColor = 'rgba(239, 68, 68, 0.9)';
+    icon = 'times-circle';
+  } else if (type === 'success') {
+    bgColor = 'rgba(16, 185, 129, 0.9)';
+    icon = 'check-circle';
+  }
+  
+  toast.style.background = bgColor;
+  toast.style.color = 'white';
+  
+  toast.innerHTML = `
+    <div class="flex items-center gap-2">
+      <i class="fas fa-${icon} text-lg"></i>
+      <span class="font-medium text-sm">${message}</span>
+    </div>
+  `;
+  
+  document.body.appendChild(toast);
+  
+  setTimeout(() => {
+    toast.style.animation = 'slideIn 0.3s ease-out reverse';
+    setTimeout(() => toast.remove(), 300);
+  }, 5000);
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('✅ Système de surveillance initialisé');
+  updateLastUpdateTime();
+});
+</script>
+</body>
+</html>

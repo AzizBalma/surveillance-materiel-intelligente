@@ -1,0 +1,22 @@
+version: "3.8"
+services:
+  surveillance:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: surveillance-system
+    restart: unless-stopped
+    ports:
+      - "5000:5000"            # expose host:container
+    devices:
+      - "/dev/video0:/dev/video0"   # si tu veux la webcam depuis l'hôte
+    volumes:
+      - ./data:/data
+      - ./models:/app/models
+      - ./alerts:/alerts
+      - ./logs:/logs
+      - ./visualizations:/visualizations
+      - ./app:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    privileged: true
