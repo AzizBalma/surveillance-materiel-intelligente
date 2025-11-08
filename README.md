@@ -7,6 +7,8 @@
 
 > Système de surveillance temps réel combinant vision par ordinateur (YOLOv8) et machine learning pour la sécurité des infrastructures informatiques académiques
 
+**Projet de validation INGC2** - Option Intelligence des Données et Intelligence Artificielle  
+**École Supérieure Multinationale des Télécommunications (ESMT)**
 
 ---
 
@@ -19,24 +21,24 @@
 <table>
   <tr>
     <td align="center">
-      <img src="outputs/detections/detection_20251108_001.jpg" alt="Détection 1" width="350"/>
+      <img src="outputs/detections/detection_20251108_092520.jpg" alt="Détection 1" width="350"/>
       <br/>
       <em>Détection avec haute confiance (95%)</em>
     </td>
     <td align="center">
-      <img src="outputs/detections/detection_20251108_002.jpg" alt="Détection 2" width="350"/>
+      <img src="outputs/detections/detection_20251108_093015.jpg" alt="Détection 2" width="350"/>
       <br/>
       <em>Détection multiple personnes</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="outputs/detections/detection_20251108_003.jpg" alt="Détection 3" width="350"/>
+      <img src="outputs/detections/detection_20251108_100234.jpg" alt="Détection 3" width="350"/>
       <br/>
       <em>Détection en conditions variables</em>
     </td>
     <td align="center">
-      <img src="outputs/detections/detection_20251108_004.jpg" alt="Détection 4" width="350"/>
+      <img src="outputs/detections/detection_20251108_101542.jpg" alt="Détection 4" width="350"/>
       <br/>
       <em>Tracking précis avec bounding boxes</em>
     </td>
@@ -116,7 +118,7 @@ Un système intelligent et modulaire qui combine trois approches complémentaire
 ### 🎥 Détection d'Intrusions par Vision
 
 <div align="center">
-  <img src="outputs/detections/detection_sample.jpg" alt="Exemple de détection" width="600"/>
+  <img src="outputs/detections/detection_20251108_092520.jpg" alt="Exemple de détection" width="600"/>
   <br/>
   <em>Exemple de détection en temps réel avec bounding box et score de confiance</em>
 </div>
@@ -209,12 +211,12 @@ Un système intelligent et modulaire qui combine trois approches complémentaire
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="outputs/detections/live_feed_001.jpg" alt="Flux vidéo 1" width="100%"/>
+      <img src="outputs/detections/detection_20251108_100234.jpg" alt="Flux vidéo 1" width="100%"/>
       <br/>
       <em>Surveillance active - Aucune détection</em>
     </td>
     <td align="center" width="50%">
-      <img src="outputs/detections/live_feed_002.jpg" alt="Flux vidéo 2" width="100%"/>
+      <img src="outputs/detections/detection_20251108_101542.jpg" alt="Flux vidéo 2" width="100%"/>
       <br/>
       <em>Intrusion détectée - Alerte déclenchée</em>
     </td>
@@ -321,21 +323,21 @@ Un système intelligent et modulaire qui combine trois approches complémentaire
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="outputs/detections/detection_morning.jpg" alt="Détection matin" width="100%"/>
+      <img src="outputs/detections/detection_20251108_092520.jpg" alt="Détection matin" width="100%"/>
       <br/>
       <em>08:30 - Lumière naturelle</em>
       <br/>
       <strong>Confiance: 96%</strong>
     </td>
     <td align="center" width="33%">
-      <img src="outputs/detections/detection_afternoon.jpg" alt="Détection après-midi" width="100%"/>
+      <img src="outputs/detections/detection_20251108_093015.jpg" alt="Détection après-midi" width="100%"/>
       <br/>
       <em>14:15 - Éclairage mixte</em>
       <br/>
       <strong>Confiance: 92%</strong>
     </td>
     <td align="center" width="33%">
-      <img src="outputs/detections/detection_evening.jpg" alt="Détection soir" width="100%"/>
+      <img src="outputs/detections/detection_20251108_100234.jpg" alt="Détection soir" width="100%"/>
       <br/>
       <em>19:45 - Faible luminosité</em>
       <br/>
@@ -355,14 +357,14 @@ Un système intelligent et modulaire qui combine trois approches complémentaire
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="outputs/detections/multi_person_1.jpg" alt="Multi-détection 1" width="100%"/>
+      <img src="outputs/detections/detection_20251108_101542.jpg" alt="Multi-détection 1" width="100%"/>
       <br/>
       <strong>2 personnes détectées</strong>
       <br/>
       <em>Tracking simultané avec IDs distincts</em>
     </td>
     <td align="center" width="50%">
-      <img src="outputs/detections/multi_person_2.jpg" alt="Multi-détection 2" width="100%"/>
+      <img src="outputs/detections/detection_20251108_092520.jpg" alt="Multi-détection 2" width="100%"/>
       <br/>
       <strong>3 personnes détectées</strong>
       <br/>
@@ -466,9 +468,6 @@ socket.on('connection_response', (data) => {
 │  │ outputs/logs │  │ models/ml/   │  │ outputs/     │  │
 │  └──────────────┘  └──────────────┘  │ detections/  │  │
 └─────────────────────────────────────────────────────────┘
-```
-
-[... Le reste du contenu du README continue normalement ...]
 
 ---
 
