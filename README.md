@@ -1,4 +1,4 @@
-# 🔐 Surveillance Intelligente du Matériel Informatique
+# Surveillance Intelligente du Matériel Informatique
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/votre-repo/surveillance-materiel)
 [![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/downloads/)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📸 Aperçu du Système en Action
+## Aperçu du Système en Action
 
 <div align="center">
 
@@ -792,12 +792,12 @@ else:
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="outputs/detections/detection_20251108_100234.jpg" alt="Surveillance active" width="100%"/>
+    <td align="center" width="100%">
+      <img src="images/image2.png" alt="Surveillance active" width="100%"/>
       <br/>
       <em>Surveillance active - Mode normal</em>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <img src="images/image4.png" alt="Intrusion détectée" width="100%"/>
       <br/>
       <em>Intrusion détectée - Alerte déclenchée</em>
@@ -847,7 +847,7 @@ else:
 <table>
   <tr>
     <td align="center">
-      <img src="images/image3.png" alt="Alerte intrusion 1" width="300"/>
+      <img src="images/image3.png" alt="Alerte intrusion 1" width="500"/>
       <br/>
       <strong>CRITICAL</strong> - Intrusion détectée
       <br/>
@@ -959,18 +959,7 @@ const cpuChart = new Chart(ctx, {
 
 ### 🎯 Performances de Détection
 
-```
-┌─────────────────────────────────────────────────────────┐
-│              MÉTRIQUES DE PERFORMANCE                    │
-├─────────────────────────────────────────────────────────┤
-│  📊 mAP50:          96.4%  ████████████████████░        │
-│  🎯 Précision:      96.4%  ████████████████████░        │
-│  🔍 Rappel:         95.7%  ███████████████████▓░        │
-│  ⚡ FPS (CPU):      ~30    ████████████████████         │
-│  ⏱️ Latence:        <100ms ████████████████████         │
-│  💾 Taille modèle:  6.2 MB ████████░░░░░░░░░░░░        │
-│  🔋 RAM utilisée:   ~200MB ████████░░░░░░░░░░░░        │
-└─────────────────────────────────────────────────────────┘
+
 ```
 
 ### 🔄 Communication WebSocket
