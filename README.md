@@ -97,13 +97,7 @@ Un système intelligent et modulaire qui combine trois approches complémentaire
 
 ### 🎥 Détection d'Intrusions par Vision
 
-<div align="center">
-  <img src="outputs/detections/detection_20251108_092520.jpg" alt="Exemple de détection" width="600"/>
-  <br/>
-  <em>Exemple de détection en temps réel avec bounding box et score de confiance</em>
-</div>
 
-<br/>
 
 - **Détection temps réel** de présence humaine via YOLOv8
 - **Précision de détection** > 95% (mAP50)
@@ -791,12 +785,6 @@ else:
 #### 📹 Flux Vidéo en Direct
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="images/image2.png" alt="Surveillance active" width="100%"/>
-      <br/>
-      <em>Surveillance active - Mode normal</em>
-    </td>
     <td align="center" width="100%">
       <img src="images/image4.png" alt="Intrusion détectée" width="100%"/>
       <br/>
