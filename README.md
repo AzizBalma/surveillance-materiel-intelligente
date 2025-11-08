@@ -468,6 +468,9 @@ socket.on('connection_response', (data) => {
 │  │ outputs/logs │  │ models/ml/   │  │ outputs/     │  │
 │  └──────────────┘  └──────────────┘  │ detections/  │  │
 └─────────────────────────────────────────────────────────┘
+```
+
+[... Le reste du contenu du README continue normalement ...]
 
 ---
 
