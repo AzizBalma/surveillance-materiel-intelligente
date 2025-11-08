@@ -6,8 +6,7 @@
 
 > Système de surveillance temps réel combinant vision par ordinateur (YOLOv8) et machine learning pour la sécurité des infrastructures informatiques académiques
 
-**Projet de validation INGC2** - Option Intelligence des Données et Intelligence Artificielle  
-**École Supérieure Multinationale des Télécommunications (ESMT)**
+
 
 ---
 
@@ -20,7 +19,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/image2.png" alt="Détection 1" width="350"/>
+      <img src="images/image2.png" alt="Détection 1" width="450"/>
       <br/>
       <em>Détection avec haute confiance (95%)</em>
     </td>
@@ -799,7 +798,7 @@ else:
       <em>Surveillance active - Mode normal</em>
     </td>
     <td align="center" width="50%">
-      <img src="outputs/detections/detection_20251108_092520.jpg" alt="Intrusion détectée" width="100%"/>
+      <img src="images/image4.png" alt="Intrusion détectée" width="100%"/>
       <br/>
       <em>Intrusion détectée - Alerte déclenchée</em>
     </td>
@@ -848,20 +847,12 @@ else:
 <table>
   <tr>
     <td align="center">
-      <img src="outputs/detections/detection_20251108_093015.jpg" alt="Alerte intrusion 1" width="300"/>
+      <img src="images/image3.png" alt="Alerte intrusion 1" width="300"/>
       <br/>
       <strong>CRITICAL</strong> - Intrusion détectée
       <br/>
       <em>08/11/2025 09:30:15</em>
-    </td>
-    <td align="center">
-      <img src="outputs/detections/detection_20251108_101542.jpg" alt="Alerte intrusion 2" width="300"/>
-      <br/>
-      <strong>CRITICAL</strong> - Personne non autorisée
-      <br/>
-      <em>08/11/2025 10:15:42</em>
-    </td>
-  </tr>
+    
 </table>
 
 </div>
