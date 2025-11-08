@@ -19,9 +19,9 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/image2.png" alt="Détection 1" width="450"/>
+      <img src="images/image2.png" alt="Détection 1" width="500"/>
       <br/>
-      <em>Détection avec haute confiance (95%)</em>
+      <em>Détection avec haute confiance </em>
     </td>
 </table>
 
@@ -835,11 +835,7 @@ else:
 <table>
   <tr>
     <td align="center">
-      <img src="images/image3.png" alt="Alerte intrusion 1" width="100"/>
-      <br/>
-      <strong>CRITICAL</strong> - Intrusion détectée
-      <br/>
-      <em>08/11/2025 09:30:15</em>
+      <img src="images/image3.png" alt="Alerte intrusion 1" width="500"/>
     
 </table>
 
