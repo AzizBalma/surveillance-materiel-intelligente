@@ -6,7 +6,7 @@
 
 > Système de surveillance temps réel combinant vision par ordinateur (YOLOv8) et machine learning pour la sécurité des infrastructures informatiques académiques
 > ## 👥 Équipe du Projet
-* **Cheick Abdoul Mohamed NANEMA** - *Data Engineer / AI Engineer* 
+* **Cheick Abdoul Mohamed NANEMA** - *Data Engineer / AI Engineer* linkedin : www.linkedin.com/in/cheick-mohamed-nanema-742504299
 * **BALMA Abdoul Aziz** - *Data Scientist / Machine Learning*
 
 
