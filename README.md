@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
 
 > Système de surveillance temps réel combinant vision par ordinateur (YOLOv8) et machine learning pour la sécurité des infrastructures informatiques académiques
+> ## 👥 Équipe du Projet
+* **Cheick Abdoul Mohamed NANEMA** - *Data Engineer / AI Engineer* 
+* **BALMA Abdoul Aziz** - *Data Scientist / Machine Learning*
 
 
 
